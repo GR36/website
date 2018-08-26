@@ -15,17 +15,14 @@ default-img: "/img/gr36_logo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Me:
-  - About: ""
-  - Contact: ""
+  - About: "/aboutme.html"
   - Micro Blog: "https://gr36.micro.blog"
-  Podcasts: ""
   Reviews:
     - Hardware: ""
     - Apps: ""
   How To:
     - Guides: ""
     - Workflows: ""
-  Link Posts: ""
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
