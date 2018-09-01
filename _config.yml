@@ -15,7 +15,7 @@ default-img: "/img/gr36_logo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Me:
-  - About: "/aboutme.html"
+  - About: "https://gr36.com/aboutme/"
   - Micro Blog: "https://gr36.micro.blog"
   Reviews:
     - Hardware: ""
