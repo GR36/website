@@ -31,19 +31,6 @@ collections:
       layout: post
       permalink: /link/:title
 
-# Pagination Options
-pagination:
-  enabled: true
-  debug: false
-  # The default collection
-  collection: 'posts'
-  # How many objects per paginated page
-  per_page: 10
-  # The permalink structure f
-  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
-  #permalink: '/page/:num.html' # Pages are simple html files
-  #permalink: '/page/:num' # Pages are html files, linked jekyll extensionless permalink style.
-
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
