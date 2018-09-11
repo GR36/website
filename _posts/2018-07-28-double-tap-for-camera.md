@@ -9,13 +9,7 @@ Apple place a ridiculous amount of priority on the iPhone camera. Constantly imp
 
 Android phones are the leaders in launching the camera as quick as possible. Samsung did it with a double tap of the home button, Motorola has a double twist and even my BlackBerry Key2 has multiple options for friction free captures. All of which are easier than the lock screen shortcuts introduced in iOS11, or the swipe left on the homescreen that has existed for years. All these actions seem to do is increase the chance of taking a picture of you pocket or turning on the torch by accident.
 
-<div id="attachment_908" style="width: 1410px" class="wp-caption aligncenter">
-  <img class="wp-image-908 size-full" src="https://gr36.com/wp-content/uploads/2018/07/key2-convienience-key.jpg" alt="" width="1400" height="933" srcset="https://gr36.com/wp-content/uploads/2018/07/key2-convienience-key.jpg 1400w, https://gr36.com/wp-content/uploads/2018/07/key2-convienience-key-300x200.jpg 300w, https://gr36.com/wp-content/uploads/2018/07/key2-convienience-key-768x512.jpg 768w, https://gr36.com/wp-content/uploads/2018/07/key2-convienience-key-1024x682.jpg 1024w, https://gr36.com/wp-content/uploads/2018/07/key2-convienience-key-700x467.jpg 700w" sizes="(max-width: 1400px) 100vw, 1400px" />
-
-  <p class="wp-caption-text">
-    image from Crackberry.com
-  </p>
-</div>
+![](https://gr36.com/img/key2-convienience-key.jpg)
 
 This is without taking into account that a dedicated key would allow you to launch the camera regardless of what you are doing at the time. At the moment it requires multiple taps and swipes to get to the camera if you are using another app. The ability to launch the camera from every screen is a huge deal, and one that allows you to capture moments much quicker and easier.
 
