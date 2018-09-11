@@ -7,7 +7,7 @@ Thanks to the iPhone X OLED display I am even more in love with black wallpapers
 
 Whilst a quick [Google search](https://www.google.co.uk/search?q=black+walpapers&ie=UTF-8&oe=UTF-8&hl=en-gb&client=safari#imgrc=mwc3oPlRTvUaAM:) will find you a whole treasure trove of black wallpapers, with any number of designs on. It can be hard finding something that fits your phone and also your style. Lately I’ve been using two great wallpapers from a Todoist designer.
 
-<img class="alignnone size-full wp-image-939" src="https://gr36.com/wp-content/uploads/2018/07/3A1430D9-25CD-4F9E-B618-4592D1F1B7B4.png" width="1000" height="498" srcset="https://gr36.com/wp-content/uploads/2018/07/3A1430D9-25CD-4F9E-B618-4592D1F1B7B4.png 1000w, https://gr36.com/wp-content/uploads/2018/07/3A1430D9-25CD-4F9E-B618-4592D1F1B7B4-300x149.png 300w, https://gr36.com/wp-content/uploads/2018/07/3A1430D9-25CD-4F9E-B618-4592D1F1B7B4-768x382.png 768w, https://gr36.com/wp-content/uploads/2018/07/3A1430D9-25CD-4F9E-B618-4592D1F1B7B4-700x349.png 700w" sizes="(max-width: 1000px) 100vw, 1000px" />
+![](https://gr36.com/img/3A1430D9-25CD-4F9E-B618-4592D1F1B7B4.png)
 
 [Alex Muench](https://mobile.twitter.com/alexmuench) who works in product design at Doist has posted two brilliant ones that give a hint at what to expect in their upcoming dark mode. Head [over the Dribbble and you can download them](https://dribbble.com/shots/4869620-Dark-Patterns-Wallpaper?utm_source=Twitter_Shot&utm_campaign=alexmuench&utm_content=Dark%20Patterns%20Wallpaper) for iPhone and Android phones. As a side note Alex has clear instruction “don’t use my wallpaper in your own designs without permission”.
 
