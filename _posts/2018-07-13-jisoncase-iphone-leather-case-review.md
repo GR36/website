@@ -2,10 +2,11 @@
 title: "Jisoncase iPhone X Leather Case Review"
 date: 2018-07-13 13:53
 bigimg: /img/2018-06-22-jisoncase-iPhonex-featured.jpeg
+tags: review
 ---
-As much as people try and convince me otherwise, since the iPhone 6 I just cant use my phone without a case on. The rounded corners and slippery materials leave me with too much worry that my phone will drop to the floor at any moment. I’ve tried loads of cases, from dirt cheap to surprisingly expensive - but stuck with an Apple version as it simply fit and feels the best. This isn’t [set in stone though](https://gr36.com/2017-12-29-lopie-sea-island-review/) so when Jisoncase offered to send me their leather case for my iPhone X I jumped at the chance. 
+As much as people try and convince me otherwise, since the iPhone 6 I just cant use my phone without a case on. The rounded corners and slippery materials leave me with too much worry that my phone will drop to the floor at any moment. I’ve tried loads of cases, from dirt cheap to surprisingly expensive - but stuck with an Apple version as it simply fit and feels the best. This isn’t [set in stone though](https://gr36.com/2017-12-29-lopie-sea-island-review/) so when Jisoncase offered to send me their leather case for my iPhone X I jumped at the chance.
 
-I opted for the saddle brown version to [compliment my iPad case](https://gr36.com/2018-06-21-Jisoncase-ipadpro-review/), and they both arrived in packaging that didn’t befit something so reasonably priced. Unlike the £50 Apple leather cases that supliments the £1000 you paid for the phone, the Jisoncase version is priced at just £19.95. At a price point comparative to a middle of the road silicone case, this one feels like you paid much more. 
+I opted for the saddle brown version to [compliment my iPad case](https://gr36.com/2018-06-21-Jisoncase-ipadpro-review/), and they both arrived in packaging that didn’t befit something so reasonably priced. Unlike the £50 Apple leather cases that supliments the £1000 you paid for the phone, the Jisoncase version is priced at just £19.95. At a price point comparative to a middle of the road silicone case, this one feels like you paid much more.
 
 ![](https://gr36.com/img/2018-06-22-jisoncase-iPhonex-side.jpeg)
 
