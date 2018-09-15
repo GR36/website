@@ -17,10 +17,10 @@ navbar-links:
   Me:
   - About: "https://gr36.com/aboutme/"
   - Micro Blog: "https://gr36.micro.blog"
-  Reviews: "https://gr36.com/reviews.html"
+  Reviews: "https://gr36.com/reviews/"
   How To:
-    - Guides: ""
-    - Workflows: ""
+    - Guides: "https://gr36.com/howto/"
+    - Workflows: "https://gr36.com/workflow/"
 
  # Collections
 collections:
