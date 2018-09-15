@@ -1,7 +1,7 @@
 ---
 title: Nexus 5x - Familiar feel, same result
 date: 2016-10-23
-tags: [hardware]
+tags: review
 ---
 It has been a long time since a new Nexus has been usable for the general population, two years ago LG produced arguably the most successful Nexus so far. A 5 inch screened device, with good specs that was affordable to the masses. For the first time it was a phone you could recommend and you actually saw Nexus’ in use on the street.
 

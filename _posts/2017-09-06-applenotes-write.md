@@ -2,7 +2,7 @@
 title: Using iOS11 Apple Notes app to write
 Date: 2017-09-06
 bigimg: /img/Apple-notes-featured.c8c3602dc53e4049b61a37fad4eabcd9.png
-tags: [app]
+tags: review
 ---
 Sure enough, just after deciding that my workflow of using [Bear and Ulysses][1] to write all of my content was pretty much perfect - I’ve changed again. For the past week I have been exploring using Apple Notes instead of Bear now that iOS11 is about to drop, and it seems to be working very well.
 
@@ -18,12 +18,12 @@ I still miss a few things that can be found in more powerful apps. Tagging being
 
 ![gr36 apple notes][image-1]
 
-The worst thing for publishing is Apple Notes app insisting on using a weird version of Rich text so converting to markdown is a pain. I created an [Apple Notes to markdown Workflow][6] which automates the switch to Markdown, which is infinitely more friendly to work with for publishing. This Workflow also copies the resulting Markdown to a new sheet in my ‘ideas’ folder of Ulysses. I can then continue to draft this until I’m happy, add images and publish. 
+The worst thing for publishing is Apple Notes app insisting on using a weird version of Rich text so converting to markdown is a pain. I created an [Apple Notes to markdown Workflow][6] which automates the switch to Markdown, which is infinitely more friendly to work with for publishing. This Workflow also copies the resulting Markdown to a new sheet in my ‘ideas’ folder of Ulysses. I can then continue to draft this until I’m happy, add images and publish.
 
-There is no X-Callback URL support in Notes what so ever, and the sharing of notes to other apps can sometimes go a little wonky depending on the app. However all in all the improvements made to app have made it a serious contender to be put back on many users main screen. 
+There is no X-Callback URL support in Notes what so ever, and the sharing of notes to other apps can sometimes go a little wonky depending on the app. However all in all the improvements made to app have made it a serious contender to be put back on many users main screen.
 
 ## Conclusion
-I would like to see more user features in upcoming versions of Notes, perhaps the ability to change the font to something more readable. Proper Rich Text would be much easier to use than the current implementation, but I’d really love basic text or markdown support - although I don’s see that ever happening. However I would edge you to give notes another chance and see if the improvements make your life easier. 
+I would like to see more user features in upcoming versions of Notes, perhaps the ability to change the font to something more readable. Proper Rich Text would be much easier to use than the current implementation, but I’d really love basic text or markdown support - although I don’s see that ever happening. However I would edge you to give notes another chance and see if the improvements make your life easier.
 
 [1]:	http://www.gr36.com/bear-and-ulysses/
 [2]:	https://www.macstories.net/ios/ipad-diaries-optimizing-apple-notes/

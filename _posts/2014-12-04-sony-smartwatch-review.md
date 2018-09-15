@@ -3,7 +3,7 @@ title: Sony Smartwatch 3 Review
 subtitle: The Best Android Wear Watch At The Moment
 date: 2014-12-04
 bigimg: https://cdn-images-1.medium.com/max/800/0*UpPIfojj5TMmKZuv.jpg
-tags: [hardware]
+tags: review
 ---
 It feels much longer, but it’s been less than 6 months since Android Wear hit the market. They have stealthily crept into use without much fuss, despite revolutionising the wearables market. Reducing the time spent interacting with your phone, but still mining all of that lovely data for Google. The launch devices were pretty average, the Moto 360 wasn’t for everyone despite its anticipation. So now its time to see, perhaps one of the more experienced smart watch maker, Sony take on Android wear. The Sony Smartwatch 3 review is straight ahead.
 

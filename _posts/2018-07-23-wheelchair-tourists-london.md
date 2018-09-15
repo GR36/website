@@ -2,7 +2,7 @@
 title: "Wheelchair Tourists - London"
 date: 2018-07-23 15:40:50
 bigimg: /img/wheelchair-traveling.43a510fc0cb34e558fa26068d511ed52.jpg
-tags: disability, wheelchair
+tags: disability, wheelchair, blog
 ---
 This isn&#8217;t the right thing to say but I dread taking my daughters wheelchair anywhere new. Most places are great but I can&#8217;t escape the feeling of dread because it only takes one poor experience to put you off completely &#8211; thankfully London was pretty great.
 

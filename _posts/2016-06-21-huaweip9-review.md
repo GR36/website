@@ -2,7 +2,7 @@
 title: Huawei P9 Review - Pain and Gain
 date: 2016-06-21
 bigimg: /img/1*rUagsVizw2ZR8AJ8UFBGyg.jpeg
-tags: [hardware]
+tags: review
 ---
 Its a weird thing to get an iOS user to review an Android device, and to be honest I am not usually interested. The Galaxy S7 and LG G5 are simply not my cup of tea, but when the Huawei P9 was announced I was immediately impressed. Bringing together excellent build quality into an all metal construction, combined with a great camera and excellent specs the P9 looked to become a top handset. So I have spent the last few weeks living outside the box, but as we will find out, pushed right up against the side.
 

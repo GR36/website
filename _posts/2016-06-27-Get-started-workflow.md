@@ -3,7 +3,7 @@ title: "How to get started with WorkFlow"
 date: 2016-06-27
 tags: [howto]
 bigimg: /img/workflow-app-featured.jpg
-tags: [workflow]
+tags: workflow
 ---
 If there is one thing you need when trying to get anything productive done on iOS, its automation. Something that had been distinctly missing from the OS up until relatively recently. Workflow is by no means a new app but itâ€™s developers have been constantly improving it, and here is a guide on how to get started.
 

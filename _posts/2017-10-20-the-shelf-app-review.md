@@ -2,7 +2,7 @@
 title: "The Shelf App Review"
 date: 2017-09-24
 bigimg: /img/shelf-app-review.png
-tags: [app]
+tags: review
 ---
 A shelf app is a very strange thing to take in. Until Federico [Viticci published his iOS11 concept][1] I hadn’t even considered the idea of needing one. He posed lots of ideas around universal drag and drop that Apple did actually build into the OS, and now this idea of a shelf to drag all those things you’ve picked up before you have a place to drop them is taking off.
 
@@ -20,9 +20,9 @@ The Shelf also has dynamic data export, meaning it will intelligently recognise 
 
 ## Conclusion
 If you are the typical iPad user that consumes content and isn’t really going to do much dragging and dropping there is next to no need for this app. However if you work on your [iPad like me](http://www.gr36.com/the-ipad-pro-as-my-
-computer/) then it should be an instant buy. With that said this is very early days, features are coming as long as enough people support the app with the IAP, couple this with the fact that other shelf [apps are out there][6] The Shelf App may have its work cut out. 
+computer/) then it should be an instant buy. With that said this is very early days, features are coming as long as enough people support the app with the IAP, couple this with the fact that other shelf [apps are out there][6] The Shelf App may have its work cut out.
 
-I would like to see an option to drag things in and them stay in The Shelf - a ‘pinning’ option if you will. However perhaps these options will come if enough people [support the developer][7]. 
+I would like to see an option to drag things in and them stay in The Shelf - a ‘pinning’ option if you will. However perhaps these options will come if enough people [support the developer][7].
 
 [1]:	https://www.macstories.net/stories/ios-11-ipad-wishes-and-concept-video/
 [2]:	https://techcrunch.com/2017/03/22/apple-has-acquired-workflow-a-powerful-automation-tool-for-ipad-and-iphone/

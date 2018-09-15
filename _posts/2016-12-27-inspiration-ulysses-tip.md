@@ -1,7 +1,7 @@
 ---
 title: Ulysses Automation Tip - When Inspiration Hits
 date: 2016-12-27
-tags: [howto]
+tags: howto
 ---
 I have been writing in Markdown for a few years now, using a variety of apps to create and publish posts to my personal blog, Coolsmartphone and a few other Wordpress blogs. Having recently switched all of my work to the Ulysses app I’ve been trying to automate as much of my workflow as possible: and heres a nifty trick to jot some notes when you get an idea.
 
