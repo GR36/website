@@ -2,7 +2,7 @@
 
 This is an ongoing project for creation and modification of my personal blog. The site uses the basis of Beautiful Jeckyll by [Dean Attali](http://deanattali.com). [Donate](https://www.paypal.me/daattali/20)
 
-I have modified the usage to my own ends, adding in link collection and post formats to my taste. Everything is free and open for you to fork and use **except** all of the content in posts, link and blog folders. This is expressly my property and is not to be reproduced in any way.
+I have modified the usage to my own ends, adding in link collection and post formats to my taste. Everything is free and open for you to fork and use **except** all of the content in the _posts and _img folders. This is expressly my property and is not to be reproduced in any way.
 
 ## Contributions
 
