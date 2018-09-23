@@ -24,7 +24,7 @@ navbar-links:
 
  # Collections
 collections:
-    link:
+    links:
       output: true
       layout: post
       permalink: /link/:title
