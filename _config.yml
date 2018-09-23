@@ -16,8 +16,10 @@ default-img: "/img/gr36_logo.jpg"
 navbar-links:
   Me:
   - About: "https://gr36.com/aboutme/"
+  - Twitter: "https://twitter.com/gr36"
+  Content: 
   - Micro Blog: "https://gr36.com/microblog/"
-  Reviews: "https://gr36.com/reviews/"
+  - Reviews: "https://gr36.com/reviews/"
   How To:
     - Guides: "https://gr36.com/howto/"
     - Workflows: "https://gr36.com/workflow/"
