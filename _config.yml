@@ -29,7 +29,7 @@ collections:
       layout: post
       permalink: /link/:title
       
-    microblog:
+    micro:
       output: true
       layout: post
       permalink: /microblog/:title
