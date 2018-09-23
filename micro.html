@@ -12,10 +12,7 @@ pagination:
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
-    </a>
-
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
@@ -23,6 +20,8 @@ pagination:
     <div class="post-entry-container">
       <div class="post-entry">
         {{ post.content }}
+        <br>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Perma&nbsp;Link]</a>
       </div>
     </div>
 
