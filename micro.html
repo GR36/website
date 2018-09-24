@@ -11,7 +11,6 @@ pagination:
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-	  <h2 class="post-title">{{ post.title }}</h2>
      <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
