@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2018-09-24 17:15
+title: 2018-09-24 17:15
+---
+Reformatting date and title for testing
+
+![More love](https://www.gr36.com/_micro/img/more-love.jpeg)
