@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2018-09-24 17:23
+title: 2018-09-24 17:23
+---
+Hopefully final test post
+
+![Boyd stickers](https://www.gr36.com/img/2018-09-24/boyd-stickers.jpeg)
