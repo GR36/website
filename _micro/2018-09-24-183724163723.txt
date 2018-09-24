@@ -1,8 +1,0 @@
----
-layout: post
-date: 2018-09-24 16:37
-title: 
----
-Test post
-
-![500](https://gr36.com/_micro/img/2018-09-24/500.txt)
