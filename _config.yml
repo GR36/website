@@ -40,7 +40,7 @@ collections:
     blog:
       output: true
       layout: post
-      permalink: /:collection/:title
+      permalink: /:title
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
