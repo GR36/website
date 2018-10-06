@@ -17,7 +17,7 @@ navbar-links:
   Me:
   - About: "https://gr36.com/aboutme/"
   - Twitter: "https://twitter.com/gr36"
-  Content: 
+  Content:
   - Micro Blog: "https://gr36.com/microblog/"
   - Link Posts: "https://gr36.com/links/"
   - Reviews: "https://gr36.com/reviews/"
@@ -31,11 +31,16 @@ collections:
       output: true
       layout: post
       permalink: /:collection/:title
-      
+
     micro:
       output: true
       layout: post
       permalink: /:collection/:title
+
+      posts:
+        output: true
+        layout: post
+        permalink: /:collection/:title
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
