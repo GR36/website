@@ -53,7 +53,6 @@ pagination:
         {%- endif -%}
 
         {%- if post.categories contains 'links' -%}
-        <br>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[PermaLink]</a>
         {%- endif -%}
       </div>
