@@ -25,8 +25,8 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
-          <a href="{{ post.link }}">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1></a>
+          <a href="{{ page.link }}">
+          <h1>{{ page.title }} &#x2192;</h1></a>
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
             <hr class="small">
@@ -51,8 +51,8 @@
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <div class="{{ include.type }}-heading">
-          <a href="{{ post.link }}">
-          <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1></a>
+          <a href="{{ page.link }}">
+          <h1>{{ page.title }} &#x2192;</h1></a>
 		  {% if page.subtitle %}
 		    {% if include.type == "page" %}
             <hr class="small">
