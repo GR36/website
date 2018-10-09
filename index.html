@@ -17,7 +17,7 @@ pagination:
 
       {%- if post.categories contains 'links' -%}
       <a href="{{ post.link }}">
-        <h2 class="post-title">&#128279; {{ post.title }}</h2></a>
+        <h2 class="post-title">{{ post.title }} U+2192 </h2></a>
         {%- endif -%}
 
 
@@ -28,9 +28,15 @@ pagination:
 	  {% endif %}
     </a>
 
+    {%- if post.categories contains 'links' -%}
+    <p class="post-meta">
+      Linked on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+    {% else %}
     <p class="post-meta">
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
+    {% endif %}
 
     <div class="post-entry-container">
       {% if post.bigimg %}
