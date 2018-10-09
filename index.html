@@ -13,11 +13,12 @@ pagination:
     {%- if post.categories contains 'blog' -%}
     <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">{{ post.title }}</h2>
-
-    {%- if post.categories contains 'link' -%}
-    <a href="{{ post.link }}">
-    <h2 class="post-title">{{ post.title }}</h2>
     {%- endif -%}
+      {%- if post.categories contains 'link' -%}
+      <a href="{{ post.link }}">
+        <h2 class="post-title">{{ post.title }}</h2>
+        {%- endif -%}
+
 
 
 	  {% if post.subtitle %}
