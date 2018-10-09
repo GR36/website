@@ -2,7 +2,7 @@
 layout: page
 title: Greg Morris
 subtitle: Micro Blog
-permalink: /micro/
+permalink: /microblog/
 pagination:
   enabled: true
   tag: micro
@@ -15,14 +15,6 @@ pagination:
       Posted on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
-    <div class="post-entry-container">
-      {% if post.bigimg %}
-      <div class="post-image">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-          <img src="{{ post.bigimg }}">
-        </a>
-      </div>
-      {% endif %}
       <div class="post-entry">
         {{ post.content }}
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Permalink]</a>
