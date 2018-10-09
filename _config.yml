@@ -27,6 +27,7 @@ navbar-links:
 
  # Collections
 collections:
+
     links:
       output: true
       layout: post
@@ -41,6 +42,11 @@ collections:
       output: true
       layout: post
       permalink: /:title
+
+    books:
+      output: true
+      layout: post
+      permalink: /:collection/:title
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
