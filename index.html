@@ -10,16 +10,11 @@ pagination:
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    {%- if post.title != "" -%}
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-    {%- else -%}
+    {%- if post.categories contains 'blog' -%}
     <a href="{{ post.url | prepend: site.baseurl }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
+    <h2 class="post-title">{{ post.title }}</h2>
     {%- endif -%}
+
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
