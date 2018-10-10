@@ -2,7 +2,7 @@
 date: 2018-5-4 14:48
 link: https://mjdescy.micro.blog/2018/05/04/listening-to-podcasts.html
 title: Listening to Podcasts without Voice Boost
-comments: false
+tag: link
 ---
 > For that matter, why don’t they “shorten silences” on their end, too? That way, everyone could benefit from better audio quality and a shorter runtime.
 

@@ -2,6 +2,7 @@
 title: Apple AirPods - the audiophile review - The Verge
 link: https://www.theverge.com/2018/3/19/17138258/apple-airpods-audiophile-review-wireless-headphones
 date: 2018-03-19 18:06
+tag: link
 ---
 > Apple’s design compromise, extending that stem down toward the face, is simply the most optimal one we have
 [Apple AirPods: the audiophile review - The Verge](https://www.theverge.com/2018/3/19/17138258/apple-airpods-audiophile-review-wireless-headphones)
