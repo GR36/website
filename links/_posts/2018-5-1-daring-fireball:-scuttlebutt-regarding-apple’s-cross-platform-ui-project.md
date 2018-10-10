@@ -3,6 +3,7 @@ date: 2018-5-1 6:59
 link: https://daringfireball.net/2018/04/scuttlebutt_regarding_ui_project
 title: Scuttlebutt Regarding Apple’s Cross-Platform UI Project | Daring Fireball
 tag: link
+layout: link
 ---
 > doubt that 2018 was on the table in December. It’s a 2019 thing, for MacOS 10.15 and iOS 13.1 I would set your expectations accordingly for this year’s WWDC.
 

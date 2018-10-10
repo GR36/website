@@ -3,6 +3,7 @@ date: 2018-5-1 9:46
 link: https://onetechmind.com/2018/04/privacy-policy-updates-are-trendy/
 title: Privacy Policy updates are trendy | One-Tech Mind
 tag: link
+layout: link
 ---
 > There’s a silver lining in the aftermath of the Facebook/Cambridge Analytica fiasco: everyone and their mother are updating privacy policies right now. Go ahead, check your inbox; I bet you have quite a few. Maybe it’s a bit marketing fluff, but the optimist in me hopes there is good intention.
 
