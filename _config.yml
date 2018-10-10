@@ -29,7 +29,7 @@ navbar-links:
 collections:
     links:
       output: true
-      layout: post
+      layout: link
       permalink: /:collection/:title
 
     micro:
@@ -43,6 +43,11 @@ collections:
       permalink: /:title
 
     books:
+      output: true
+      layout: post
+      permalink: /:collection/:title
+      
+    podcast:
       output: true
       layout: post
       permalink: /:collection/:title
