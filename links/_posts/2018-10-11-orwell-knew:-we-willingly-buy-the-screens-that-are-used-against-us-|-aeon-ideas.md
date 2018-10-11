@@ -2,7 +2,7 @@
 layout: link
 date: 2018-10-11 15:23
 link: https://aeon.co/ideas/orwell-knew-we-willingly-buy-the-screens-that-are-used-against-us
-title: Orwell knew: we willingly buy the screens that are used against us | Aeon Ideas
+title: Orwell knew - we willingly buy the screens that are used against us | Aeon Ideas
 tag: link
 ---
 > The book credits technology with the destruction of privacy, and here we catch a glimpse of the world in which we live: ‘With the development of television, and the technical advance which made it possible to receive and transmit simultaneously on the same instrument, private life came to an end.’
