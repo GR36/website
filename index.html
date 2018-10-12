@@ -10,7 +10,7 @@ pagination:
 <div class="posts-list">
   {% for post in paginator.posts %}
 
-{% for post.categories contains 'notes' -%}
+{% if post.categories contains 'notes' -%}
 <article class="notes-post-preview">
   <h2 class="post-title">{{ post.title }}</h2>
   <p class="post-meta">
