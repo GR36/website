@@ -1,7 +1,7 @@
 ---
 title: "Stopping the Tide"
 date: 2018-10-12 13:26
-bigimg: https://gr36.com/img/tide-beach-sea.jpg
+bigimg: /img/tide-beach-sea.jpg
 ---
 For the last few months I have (had) been journaling. I won’t bore you with the details but jotting down a few notes once or twice a day in the Day One app ([my review](https://gr36.com/2017-12-20-day-one-review/)) had been helping tremendously. Bringing thoughts to the front of my mind and working through issues or decisions easier. Almost as if I were to have a conversation with myself and reach conclusions from it.
 
