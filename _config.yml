@@ -18,9 +18,10 @@ navbar-links:
   - About: "https://gr36.com/aboutme/"
   - Twitter: "https://twitter.com/gr36"
   Content:
-  - Micro Blog: "https://gr36.com/microblog/"
+  - Blog Posts "https://gr36.com/blog/"
   - Link Posts: "https://gr36.com/links/"
   - Reviews: "https://gr36.com/reviews/"
+  - Notes: "https://gr36.com/notes/"
   How To:
     - Guides: "https://gr36.com/howto/"
     - Workflows: "https://gr36.com/workflow/"
@@ -32,7 +33,7 @@ collections:
       layout: link
       permalink: /:collection/:title
 
-    micro:
+    notes:
       output: true
       layout: post
       permalink: /:collection/:title
@@ -46,7 +47,7 @@ collections:
       output: true
       layout: post
       permalink: /:collection/:title
-      
+
     podcast:
       output: true
       layout: post
