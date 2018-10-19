@@ -7,7 +7,7 @@ There was a time when I shared my homescreen quite often. Not because I was doin
 
 Here is my current homescreen and an update on a few apps I really love. 
 
-![](https://gr36.github.io/img/2018-10-19-homescreen-October.png)
+![](https://gr36.com/img/2018-10-19-homescreen-October.png)
 
 I am a recent convert to [Carrot Weather](https://itunes.apple.com/gb/app/carrot-weather/id961390574?mt=8) from Dark Sky. It's snark and also updates to new iOS12 features convinced me to buy the app and I have loved be meatbag hating jokes ever since. 
 
