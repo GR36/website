@@ -1,7 +1,7 @@
 ---
 title: "iPhone Homescreen Changes"
 date: 2018-10-19 17:54
-bigimg: https://gr36.com/img/2018-10-19-iOS-hello.jpeg
+bigimg: /img/2018-10-19-iOS-hello.jpeg
 ---
 There was a time when I shared my homescreen quite often. Not because I was doing anything fancy with it, but because I liked updating followers with my app choices and wallpapers. I have no idea what changed, but perhaps because of my love hate relationship with my phone it seems to have stopped. 
 
