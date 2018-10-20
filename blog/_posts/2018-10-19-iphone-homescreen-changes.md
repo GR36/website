@@ -1,13 +1,13 @@
 ---
 title: "iPhone Homescreen Changes"
 date: 2018-10-19 17:54
-bigimg: https://gr36.com/img/2018-10-19-iOS-hello.jpeg
+bigimg: /img/2018-10-19-iOS-hello.jpeg
 ---
 There was a time when I shared my homescreen quite often. Not because I was doing anything fancy with it, but because I liked updating followers with my app choices and wallpapers. I have no idea what changed, but perhaps because of my love hate relationship with my phone it seems to have stopped. 
 
 Here is my current homescreen and an update on a few apps I really love. 
 
-![](https://gr36.github.io/img/2018-10-19-homescreen-October.png)
+![](https://gr36.com/img/2018-10-19-homescreen-October.png)
 
 I am a recent convert to [Carrot Weather](https://itunes.apple.com/gb/app/carrot-weather/id961390574?mt=8) from Dark Sky. It's snark and also updates to new iOS12 features convinced me to buy the app and I have loved be meatbag hating jokes ever since. 
 
