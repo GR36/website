@@ -9,7 +9,7 @@ I must outline that I say _users_ with a broad stroke, because some of those mos
 
 I have used the same watch face for almost the entire time I have owned one (since launch bar about 4 weeks of vacation before the last version). My only issues with the current watch faces are that too many of them are appealing but fall short in some way. Some are overly complex and feature too much information, some fall short of not having enough complications, and unfortunately some are just not my cup of tea at all. 
 
-![](https://gr36.github.io/img/2018-10-18-AppleWatch-faces.png)
+![](https://gr36.com/img/2018-10-18-AppleWatch-faces.png)
 
 However it must be said that I don't think allowing developers to create a huge number of faces to choose from would fix many of the issues. In actual fact I think it might make choices much worse. If Apple were to relinquish some control over the face they must insist on a certain level of complication use or design, both of which I have doubts if that would even be possible to control. 
 
