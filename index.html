@@ -53,7 +53,6 @@ pagination:
         </a>
       </div>
       {% endif %}
-      {% endif %}
       <div class="post-entry">
         {%- if post.categories contains 'blog' -%}
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
