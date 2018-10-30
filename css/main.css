@@ -375,6 +375,7 @@ footer .theme-by {
   margin-top: -35px;
   margin-left: 20px;
   filter: grayscale(90%);
+  object-fit: cover;
 }
 .post-image:hover {
   filter: grayscale(0%);
