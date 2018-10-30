@@ -10,6 +10,20 @@ pagination:
 <div class="posts-list">
   {% for post in paginator.posts %}
 
+{% if post.categories contains 'notes' -%}
+<article class="notes-post-preview">
+  <h2 class="post-title">{{ post.title }}</h2>
+  <p class="post-meta">
+    Posted on {{ post.date | date: "%B %-d, %Y" }}
+  </p>
+  <div class="post-entry-container">
+    <div class="post-entry">
+    {{ post.content }}
+    </div>
+    </div>
+  </article>
+  {%- else -%}
+
   <article class="post-preview">
     {%- if post.categories contains 'blog' -%}
     <a href="{{ post.url | prepend: site.baseurl }}">
@@ -21,9 +35,6 @@ pagination:
         <h2 class="post-title">{{ post.title }} &#x2192;</h2></a>
         {%- endif -%}
 
-      {% if post.categories contains 'notes' -%}
-      <h2 class="post-title">{{ post.title }}</h2>
-        {%- endif -%}
 
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
@@ -44,24 +55,20 @@ pagination:
 
     <div class="post-entry-container">
       {% if post.bigimg %}
-        {% if post.categories contains 'notes' -%}
-        <img src="{{ post.bigimg }}">
-        {% else %}
       <div class="post-image">
         <a href="{{ post.url | prepend: site.baseurl }}">
           <img src="{{ post.bigimg }}">
         </a>
       </div>
-        {% endif %}
       {% endif %}
       <div class="post-entry">
         {%- if post.categories contains 'blog' -%}
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
           <br>
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-
+        {% endif %}
         {% else %}
         {{ post.content }}
         {%- endif -%}
