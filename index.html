@@ -9,9 +9,9 @@ pagination:
 
 <div class="posts-list">
   {% for post in paginator.posts %}
+<article class="post-preview">
 
 {% if post.categories contains 'notes' -%}
-<article class="post-preview">
   <h2 class="post-title">{{ post.title }}</h2>
         {% if post.subtitle %}
       <h3 class="post-subtitle">{{ post.subtitle }}</h3>
@@ -23,16 +23,15 @@ pagination:
 
         <img src="{{ post.bigimg }}">
 
-  
+
     {% endif %}
     <div class="post-entry">{{ post.content }}</div>
 </div>
 </div>
 {% endif %}
-</article>
+
 
 {%- if post.categories contains 'blog' -%}
-<article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">{{ post.title }}</h2></a>
     {% if post.subtitle %}
@@ -60,11 +59,8 @@ pagination:
     </div>
   </div>
   {% endif %}
-  </article>
-
 
   {%- if post.categories contains 'links' -%}
-  <article class="post-preview">
       <a href="{{ post.link }}">
         <h2 class="post-title">{{ post.title }} &#x2192;</h2></a>
 	  {% if post.subtitle %}
@@ -83,9 +79,8 @@ pagination:
       </div>
     </div>
 {%- endif -%}
+
 </article>
-
-
   {% endfor %}
 </div>
 
