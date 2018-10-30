@@ -332,8 +332,8 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
-  color: #191380;
-  font-weight: 800;
+  color: {{ site.link-col }};
+}
 
 .post-preview a:focus,
 .post-preview a:hover {
@@ -385,7 +385,6 @@ footer .theme-by {
 }
 .post-preview .post-read-more {
   font-weight: 800;
-  color: #404040;
 }
 
 @media only screen and (min-width: 768px) {
