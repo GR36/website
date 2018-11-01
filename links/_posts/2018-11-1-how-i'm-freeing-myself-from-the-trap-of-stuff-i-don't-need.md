@@ -2,7 +2,7 @@
 layout: link
 date: 2018-11-1 20:53
 link: https://tinybuddha.com/blog/freeing-myself-trap-stuff-i-dont-need/
-title: 'How I'm Freeing Myself from the Trap of Stuff I Don't Need - Tiny Buddha'
+title: How I'm Freeing Myself from the Trap of Stuff I Don't Need | Tiny Buddha
 tag: link
 ---
 > Will it give my life meaning? Make my life easier, better? Why do I really want it? Is it only because I am chasing a feeling? Or because I want to squelch one? What would happen if I didn’t buy it?
