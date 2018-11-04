@@ -278,6 +278,7 @@ img {
     width: 150px;
     display: inline-block;
     padding: 5px;
+    overflow: hidden;
 }
 
 .rel hover {
