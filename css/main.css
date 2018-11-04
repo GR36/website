@@ -278,7 +278,7 @@ img {
     display: inline-block;
     padding: 5px;
     overflow: hidden;
-    float:left;
+    vertical-align: top;
 }
 
 .rel-title {
