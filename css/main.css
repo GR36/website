@@ -285,7 +285,7 @@ img {
 .rel-img {
     filter: grayscale(90%);
 }
-.rel-img hover {
+.rel-img:hover {
     filter: grayscale(0%);
 }
 
