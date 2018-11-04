@@ -77,10 +77,11 @@ layout: base
 
     {% if sameTagCount >= minCommonTags %}
               <div class="rel">
+                <div class="rel-img">
                   <a href="{{ site.baseurl }}{{ post.url }}">
-                  <img class="rel-img" width="100%" src="{{ site.baseurl }}{{post.bigimg}}"></a>
+                  <img width="100%" src="{{ site.baseurl }}{{post.bigimg}}"></a>
               </div>
-              </a>
+              </div>
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
