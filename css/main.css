@@ -285,8 +285,9 @@ img {
   color: #404040;
 }
 
-.rel hover {
-     filter: grayscale(0%);
+.rel-title:hover {
+    text-decoration: none;
+    color: {{ site.hover-col }};
 }
 
 .rel-img {
