@@ -267,7 +267,7 @@ img {
 
 /* --- Related Posts --- */
 .rect {
-    
+
     padding-top: 15px;
     margin:0 auto;
 }
@@ -275,6 +275,7 @@ img {
 .rel {
     width: 200px;
     display: inline-block;
+    color: #404040;
     padding: 5px;
     opacity: 0.8;
 }
