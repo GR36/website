@@ -270,8 +270,7 @@ img {
     width: 100%;
     padding-top: 15px;
     margin:0 auto;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
 }
 
 .rel {
