@@ -2,7 +2,7 @@
 title: "Todist + Trello = Trelloist"
 date: 2018-04-18 05:44
 bigimg: /img/2018-04-18-Trelloist-featured.jpeg
-tags: review
+tags: review, automation
 ---
 Despite much buzz around Things of late, I have found myself falling back into using [Todoist](https://itunes.apple.com/gb/app/todoist-organize-your-life/id572688855?mt=8&at=1000ltj4) more and more. Not because of the design, not because it doesn’t do things many other apps do - but because of the open nature of the platform and the powerful API ability. One of the very best I have found so far is [Trelloist](https://trelloist.com/).
 

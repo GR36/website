@@ -2,10 +2,11 @@
 title: "Apple terms and conditions turned into a comic book"
 date: 2017-03-18
 bigimg: /img/apple-terms-conditions.jpg
+tags: apple
 ---
 We've all been there, a new bit of tech turns up and you're itching to use it. Ripping off the packaging you're already thinking about what the first thing you're going to do. Peeling off the plastic covering, pressing the power button, and then franticly clicking accept on all of the terms and conditions without even reading them.
 
-Everyone does it, well only [7% of people actually read the wall of text you][1] have to agree to when signing up for a product or service. What if they came in the form of a comic book? More people would know what they are agreeing to. That is exactly what Robert Sikoryak has done with the iTunes terms of service in his highly anticipated release [*Terms and Conditions: A Graphic Novel*][2]. 
+Everyone does it, well only [7% of people actually read the wall of text you][1] have to agree to when signing up for a product or service. What if they came in the form of a comic book? More people would know what they are agreeing to. That is exactly what Robert Sikoryak has done with the iTunes terms of service in his highly anticipated release [*Terms and Conditions: A Graphic Novel*][2].
 
 > Transforming the dry, bland and virtually un-readable text that is the iTunes Terms and Conditions into something not only readable but enjoyable is no easy feat. - New York Times
 

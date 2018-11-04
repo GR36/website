@@ -2,7 +2,7 @@
 title: "Finding A Use For Drafts App"
 date: 2018-04-29 20:06
 bigimg: /img/2018-04-29-Drafts-app.jpeg
-tags: review
+tags: review, automation
 ---
 It has been a while since I have been genuinely excited to dive into a new app. After my initial trepidation, and following the [massive buzz](https://www.macstories.net/reviews/drafts-5-the-macstories-review/) around the 5th instalment of [Drafts app](https://itunes.apple.com/gb/app/drafts-5-capture-act/id1236254471?mt=8&at=1000ltj4), I [decided to give it a chance](https://gr36.micro.blog/2018/04/21/drafts-updatei-must.html) and I am so glad I did.
 

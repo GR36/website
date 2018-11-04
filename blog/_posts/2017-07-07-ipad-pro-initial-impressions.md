@@ -1,7 +1,7 @@
 ---
 title: "iPad Pro 10.5- Initial Impressions"
 date: 2017-07-07
-tags: review
+tags: review, iPad
 ---
 If you listen to the [BYOD podcast ][1](and you should) you will already know that I did a complete 180 over ordering a new iPad. I don't often get caught up in reviews or hype, but when the reviews are so [overwhelmingly positive][2] it's hard to not want to try one out.
 

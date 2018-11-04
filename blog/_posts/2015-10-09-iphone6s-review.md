@@ -1,7 +1,7 @@
 ---
 title: Making the tock worth it - iPhone 6s review
 date: 2015-10-09
-tags: review
+tags: review, apple
 ---
 It’s a weird thing the S upgrade of the iPhone, it is often overlooked — but always brings in features that become staples of the hardware line. The touch ID sensor with the 5s and Siri with the 4s, these models are not just the ‘tock’ to the redesigned models ‘tick’. However as every Cosplayer finds out, putting and S on something doesn’t make it super, after a stellar year can Apple give enough reason to upgrade?
 

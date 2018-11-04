@@ -2,11 +2,11 @@
 title: Learn Ulysses - For the best experience, on the best writing app
 date: 2017-09-03
 bigimg: /img/Image-03-09-2017-13-32.04c2b4b27c144b25b87cc3bc075fe603.png
-tags: [app]
+tags: review
 ---
 For a few years now I have been using my an iPad [as my primary computer][1]. I communicate from it, I’m [productive on it][2], but most of all I [write every post][3] on my blog on it. In actual fact I’m writing this post on this brilliant app right now, I preach about it’s benefits so much some fellow [iPad users][4] have converted over to the service.
 
-Although I would consider myself an advanced user, I’ve been publishing some of my [Workflows and tips to help others][5], I’m still picking up tips almost every day. I was a particularly late starter so long time users such as Shawn Blanc and the Sweet Setup Team have created the [ultimate guide to getting the most from Ulysses][6]. 
+Although I would consider myself an advanced user, I’ve been publishing some of my [Workflows and tips to help others][5], I’m still picking up tips almost every day. I was a particularly late starter so long time users such as Shawn Blanc and the Sweet Setup Team have created the [ultimate guide to getting the most from Ulysses][6].
 
 The course consists of 7 concisely written guides and accompanying videos on a whole range of subjects. Some are aimed towards those using Ulysses for longform prose, and some for short blog posts like this one. However each one contains loads of set up information and how to use all of the expansive features so you can tailor your own experience.
 

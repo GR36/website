@@ -1,7 +1,7 @@
 ---
 title: "One year of the iPad Pro as my computer"
 date: 2017-02-19
-tags: review
+tags: review, iPad
 bigimg: /img/ipad-pro-one-year-featured.jpg
 ---
 The shocked look when I tell people that my primary computing device is an iPad is brilliant. I've actually been working on an iPad for a little over two years, and have replaced pretty much all of my computing with an iPad. First with an iPad Air 2 and now with a 9.7" iPad Pro.

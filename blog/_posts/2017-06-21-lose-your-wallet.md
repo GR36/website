@@ -2,8 +2,9 @@
 title: "Apple Holding 'Lose Your Wallet' Shopping Event"
 bigimg: /img/2017-10-23-Apple-pay-event.jpeg
 date: 2017-06-21
+tags: apple
 ---
-Apple is building a multi-billion dollar services business that may soon be unrivalled. Sucking in revenue from everything from App Store sales to iCloud storage, but its crowning jewel is Apple Pay. As the service continues to expand Apple are holding a special Apple Pay event in San Francisco. 
+Apple is building a multi-billion dollar services business that may soon be unrivalled. Sucking in revenue from everything from App Store sales to iCloud storage, but its crowning jewel is Apple Pay. As the service continues to expand Apple are holding a special Apple Pay event in San Francisco.
 
 The "Lose Your Wallet" specialist shopping event will take place on the mJune 23rd to 25th and consist of 36 Apple Pay supporting retailers. All of which are offering some pretty great discounts as an encouragement to leave your wallet at home and use Apple Pay.
 
@@ -11,9 +12,9 @@ Those participating include Azalea, Bulo, Dish, Nancy Boy, Benefit, Marina Deli,
 
 ![][image-1]
 
-Payments platform Square is also supporting the event in order to showcase their support of Apply Pay through their app. Pop-up shops on Hayes Street and the Marina will provide users with exclusive offers. So if you're in the San Francisco Area and want to make some savings, register your card with Apple Pay. 
+Payments platform Square is also supporting the event in order to showcase their support of Apply Pay through their app. Pop-up shops on Hayes Street and the Marina will provide users with exclusive offers. So if you're in the San Francisco Area and want to make some savings, register your card with Apple Pay.
 
-With this event Apple aim to get more people using the payments system to aid in the roll to everyone. Despite Apple Pay now being available in 22 different countries, and as much [as a 500% user growth][1] in the service, [there are still some unsupported banks][2]. 
+With this event Apple aim to get more people using the payments system to aid in the roll to everyone. Despite Apple Pay now being available in 22 different countries, and as much [as a 500% user growth][1] in the service, [there are still some unsupported banks][2].
 
 The motives for this event are a clear indicator of not only the user and retailer demand for the service, but also the companys intentions. Apple reportedly receives 0.15% of Apple Pay transactions, [although in European countries this is much less][3]. Contactless payment support will only expand as time goes on, driving [increased revenue][4] for Cupertino.
 

@@ -2,14 +2,15 @@
 title: Filling all those rings
 date: 2017-09-26
 bigimg: /img/Image-25-09-2017-17-14.b5ea665e05e74e828b36da7e9a52ef2f.jpeg
+tags: apple watch
 ---
 My health and well being has always been a huge focus for me. I have been an avid runner, professional footballer and sport scientist but being active and healthy is increasingly hard in the modern world. The one thing that has helped me move more and weigh less is the Apple Watch.
 
-Not to mention that when you have health complications and your doctor asks how active you are, it has proved invaluable to just pull out my phone and point to the screen. I honestly couldn’t see a life without this stupid thing strapped to my wrist, and would love others to embrace it. 
+Not to mention that when you have health complications and your doctor asks how active you are, it has proved invaluable to just pull out my phone and point to the screen. I honestly couldn’t see a life without this stupid thing strapped to my wrist, and would love others to embrace it.
 
 The marketing spin was in full effect when Tim Cook referred to the newly released Apple Watch as “[The most personal device ever][1]”. All those hearing these worlds collectively rolled their eyes and waited for what it really does for you. The tech specs and the abilities are the main focus, however the personal angle has been far more important to me. This piece of equipment touches my skin for the majority of the day, and far outweighs the pokes and prods that my iPhone gets.
 
-The truth is that I spend far more time interacting with a watch than I ever thought possible. The ever present three coloured rings have pushed me to move more, stand more and make me more in touch with my body. 
+The truth is that I spend far more time interacting with a watch than I ever thought possible. The ever present three coloured rings have pushed me to move more, stand more and make me more in touch with my body.
 
 ![][image-1]
 
