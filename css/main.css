@@ -273,7 +273,7 @@ img {
 }
 
 .rel {
-    width: 25%;
+    width: 120px;
     display: inline-block;
     color: #404040;
     object-fit: cover;
