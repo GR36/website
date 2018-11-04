@@ -52,15 +52,15 @@ layout: base
         {% endif %}
       </ul>
 <br/>
-      <div class="relatedPosts">
+      <<div class="rect">
 
-<h4>You May Also Enjoy</h4>
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
 
-{% assign maxRelated = 4 %}
-{% assign minCommonTags =  2 %}
-{% assign maxRelatedCounter = 0 %}
 
   {% for post in site.posts %}
+
 
     {% assign sameTagCount = 0 %}
     {% assign commonTags = '' %}
@@ -76,17 +76,20 @@ layout: base
     {% endfor %}
 
     {% if sameTagCount >= minCommonTags %}
-      <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h5>
-      </div>
+
+          <a href="{{ site.baseurl }}{{ post.url }}">
+              <div class="rel">
+                  <h5>{{ post.title }}</h5>
+                  <img width="100%" src="/img/{{post.bigimg}}">
+              </div>
+          </a>
+
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
         {% break %}
       {% endif %}
     {% endif %}
-
   {% endfor %}
-
 </div>
 
     </div>
