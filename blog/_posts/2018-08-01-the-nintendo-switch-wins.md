@@ -2,6 +2,7 @@
 title: "The Nintendo Switch Wins"
 date: 2018-08-01 19:51:57
 bigimg: /img/B4AFD1AC-0077-4551-8B9B-8767E628A884.b3d4a35459734579a9fdd03ad8e8fbcc.jpeg
+tags: gaming, Switch
 ---
 Every dam time. Constantly. Always with the idiotic updates. Software update after software update that only happen when I want to pick my Xbox controller up and have a quick game in between the stresses of modern life. It doesn&#8217;t matter if I&#8217;ve turned on update in the background or not because Microsoft love putting road blocks in the way &#8211; and this is why the Nintendo Switch wins the console wars.
 

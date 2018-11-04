@@ -3,7 +3,7 @@ date: 2018-5-15 4:25
 bigimg: /img/2018-05-15-notebook.png
 title: Workflow - Idea To Drafts And Things
 comments: false
-tags: workflow
+tags: workflow, automation
 ---
 After [giving it some time](https://gr36.com/2018-04-29-finding-use-for-drafts/) I am very happy with doing all my blog writing in [Drafts 5](https://itunes.apple.com/gb/app/drafts-5-capture-act/id1236254471?at=1000ltj4). Unfortunately due to Workflow's slowing updates, actions take ages to update and I have been stuck on a way to update my old [Bear for ideas Workflow](https://gr36.com/2018-03-13-workflow-bear-and-things-ideas/). Luckily using Drafts actions and the robust URL scheme I've been able to get this going again.
 
