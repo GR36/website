@@ -275,11 +275,12 @@ img {
 .rel {
     width: 140px;
     display: inline-block;
-    color: #404040;
-    object-fit: cover;
     padding: 5px 5px 5px 0px;
     opacity: 0.8;
 }
+  .title {
+    color: #404040;
+  }
 
 .rel hover {
      opacity: 1;
