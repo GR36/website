@@ -78,7 +78,8 @@ layout: base
     {% if sameTagCount >= minCommonTags %}
               <div class="rel">
                   <a href="{{ site.baseurl }}{{ post.url }}">
-                  <img class="rel-img" width="100%" src="{{ site.baseurl }}{{post.bigimg}}"></a>
+                  <img class="rel-img" width="100%" src="{{ site.baseurl }}{{post.bigimg}}">
+                <h5>{{ post.title }}</h5></a>
               </div>
 
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
