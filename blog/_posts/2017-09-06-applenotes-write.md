@@ -2,7 +2,7 @@
 title: Using iOS11 Apple Notes app to write
 Date: 2017-09-06
 bigimg: /img/Apple-notes-featured.c8c3602dc53e4049b61a37fad4eabcd9.png
-tags: review
+tags: review, automation
 ---
 Sure enough, just after deciding that my workflow of using [Bear and Ulysses][1] to write all of my content was pretty much perfect - I’ve changed again. For the past week I have been exploring using Apple Notes instead of Bear now that iOS11 is about to drop, and it seems to be working very well.
 
