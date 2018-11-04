@@ -276,7 +276,6 @@ img {
     width: 150px;
     display: inline-block;
     padding: 5px;
-    align: center;
 }
 
 .rel hover {
@@ -284,6 +283,9 @@ img {
 }
 
 .rel-img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
     filter: grayscale(90%);
 }
 .rel-img:hover {
