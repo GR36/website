@@ -2,7 +2,7 @@
 layout: link
 date: 2018-11-4 13:25
 link: https://daringfireball.net/linked/2018/11/02/frakes-mac-app-store
-title: Daring Fireball: Dan Frakes Goes to Apple as Mac App Store Editor
+title: Dan Frakes Goes to Apple as Mac App Store Editor | Daring Fireball 
 tag: link
 ---
 > The talent pool writing about Apple products and platforms from outside the company’s walls is getting noticeably shallower. 
