@@ -281,6 +281,10 @@ img {
     float:left;
 }
 
+.rel-title {
+  color: #404040;
+}
+
 .rel hover {
      filter: grayscale(0%);
 }
