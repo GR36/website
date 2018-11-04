@@ -279,9 +279,6 @@ img {
     filter: grayscale(90%);
 
 }
-  .title {
-    color: #404040;
-  }
 
 .rel hover {
      filter: grayscale(0%);
