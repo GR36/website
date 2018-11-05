@@ -2,7 +2,7 @@
 title: "Besiter Mercury Powerbank Review"
 date: 2016-04-03
 bigimg: /img/2016-04-03-besiter-mercury-featured.jpg
-tags: [hardware]
+tags: review
 ---
 Ever been taken out by the dreaded red battery level when yo want to get something done. Thats more of an open question, because we all have. Our mobile life is increasingly battery heavy so to avoid that warning boxes before your day is done, you need a power bank. Heres my review of the Besiter Mercury Powerbank.
 
@@ -18,7 +18,7 @@ So the Lightening version of the Besiter Mercury is fully MFI certified and uses
 
 Which you definitely should consider doing - the unit is also very well built and easy to store given its diminutive size. As said the 5000mah version is about the size of an iPhone 6, and the 10,000mah version is about the size of a iPhone 6 plus. You can purchase both versions in white an gold to match your phone colour if you wish, however there isn't a rose gold (pink) version available.
 
-The powerbank is [available from Amazon][3] or directly [from the Kavson website][4]. This is a company to watch as they have quite a few interesting products on the market, including a [great looking quick-charge equipped unit][5]. 
+The powerbank is [available from Amazon][3] or directly [from the Kavson website][4]. This is a company to watch as they have quite a few interesting products on the market, including a [great looking quick-charge equipped unit][5].
 
 [1]:	http://kavson.co.uk
 [2]:	http://www.eurotechtalk.com/2016/03/what-to-expect-from-apples-loop-you-in-event/

@@ -2,6 +2,7 @@
 title: "Sales Of iPhone X Strong But Not Record Breaking"
 date: 2018-01-24 09:17
 bigimg: /img/2018-01-24-iPhonex-featured.jpeg
+tags: iPhone
 ---
 It is unlikely we will ever know exactly how many iPhone X were sold by Apple. They usually release a huge total of all combined models, but never break it down into the versions. However researcher Canalys *has* put a number on it, and it looks promising.
 

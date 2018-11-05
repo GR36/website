@@ -1,7 +1,7 @@
 ---
 title: "Errors in Apple Health App? Try this fix"
 date: 2017-11-14
-tags: howto
+tags: howto, apple
 bigimg: /img/apple-watch-health.jpg
 ---
 

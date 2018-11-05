@@ -1,6 +1,7 @@
 ---
 title: My Life Beholden To Three Coloured Circles
 date: 2015-09-06
+tags: apple watch, apple
 ---
 I would consider myself a pretty athletic guy, I have done various martial arts during my life — as well as completing marathons and exercise regularly. I at least thought I was doing the best for my health and my body, until the Apple watch came along that is. Since strapping the watch to my wrist I have had my eyes opened to a new world of activity and all because of three coloured circles.
 

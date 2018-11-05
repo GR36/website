@@ -2,8 +2,9 @@
 title: "Agenda App URL Scheme"
 date: 2018-10-31 10:57
 bigimg: /img/2018-10-30-agenda-hero.png
+tags: automation, iOS, app
 ---
-The opinions on Agenda app range from excitement to confusion but it has caused quite a stir in iOS productivity circles. The developers are constantly improving the app and there are now a bunch of automation options available for Agenda via x-callback URL. 
+The opinions on Agenda app range from excitement to confusion but it has caused quite a stir in iOS productivity circles. The developers are constantly improving the app and there are now a bunch of automation options available for Agenda via x-callback URL.
 
 You can use these in Shortcuts or a whole range of automation apps and here is a breakdown of what you can do.  
 
@@ -36,7 +37,7 @@ Append to existing note
 ![](https://gr36.com/img/2018-10-30-agenda-screenshots.png)
 
 ## Optional extras
-Add in extras to the end of the url if you need some more control. These are not mandatory. 
+Add in extras to the end of the url if you need some more control. These are not mandatory.
 
 On the agenda
 `&on-the-agenda=\[true or false]

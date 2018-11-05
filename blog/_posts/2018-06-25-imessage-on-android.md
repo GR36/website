@@ -2,6 +2,7 @@
 title: "iMessage on Android"
 date: 2018-06-25 17:56
 bigimg: /img/2018-06-25-iMessage-icon.jpeg
+tags: apple
 ---
 For years the thoughts and rumours of iMessage on Android has been floating around. Depending on who you are listening to you get every response from "never going to happen" to "Apple need to do it". I have often been dismissive of this ever happening, but more recently I think it could work and really should be something that Apple work on.
 
@@ -9,9 +10,9 @@ One of the arguments given is the fact that Apple already provide an Apple Music
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">While this is a nice thought, the reality is that iMessage isn’t just messaging anymore. It’s a platform. Difficult to wrap my head around how they’d accomplish this at this point. <a href="https://t.co/dqkyA0SnQv">https://t.co/dqkyA0SnQv</a></p>&mdash; Zac Cichy (@zcichy) <a href="https://twitter.com/zcichy/status/1011155940257615872?ref_src=twsrc%5Etfw">June 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-One of the huge arguments against is the fact that iMessage is often the glue that keeps people returning to iPhone when it’s time to upgrade their phone. They don't want to leave the group chats and become a green bubble. If iMessage were provided on Android, users may be less likely the buy the new iPhone and more likely to switch to Android. Less sales of iPhones means less income for Apple. 
+One of the huge arguments against is the fact that iMessage is often the glue that keeps people returning to iPhone when it’s time to upgrade their phone. They don't want to leave the group chats and become a green bubble. If iMessage were provided on Android, users may be less likely the buy the new iPhone and more likely to switch to Android. Less sales of iPhones means less income for Apple.
 
-Let's take both of those arguments and consider the following. Apple provides iMessage on Android, a way for users of Android to message each other and iPhone users, end-to-end encrypted. It over night provides one of the best messaging platforms that can be used universally and freely to anyone. 
+Let's take both of those arguments and consider the following. Apple provides iMessage on Android, a way for users of Android to message each other and iPhone users, end-to-end encrypted. It over night provides one of the best messaging platforms that can be used universally and freely to anyone.
 
 ![image from Appleinsider](https://gr36.com/img/2018-06-25-iMessage-android.jpeg)
 

@@ -2,7 +2,7 @@
 title: "Workflow - Interesting Links To Things"
 date: 2018-03-04 16:33
 bigimg: /img/2018-03-04-things-featured.jpeg
-tags: workflow
+tags: workflow, automation
 ---
 Wow, well this adventure into the possibility of using [Things](https://itunes.apple.com/gb/app/things-3/id904237743?mt=8&at=1000ltj4) as a replacement for [Todoist](https://itunes.apple.com/gb/app/todoist-organize-your-life/id572688855?mt=8&at=1000ltj4) is proving fruitful. That is not to say I couldn’t do most of these things in other apps, but the automation seems much more approachable. It also helps that people like Federico at MacStories keep giving me inspiration for more Workflows.  [This Workflow](https://workflow.is/workflows/8a204d55398b44a1b7df854b746227c6) simplifies one shared with [MacStories members](https://club.macstories.net/), and allows me to quickly add webpages that I want to read later, or ones I want to write about to Things.
 

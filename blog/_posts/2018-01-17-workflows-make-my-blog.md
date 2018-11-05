@@ -2,7 +2,7 @@
 title: "The Workflows That Make My Blog"
 date: 2018-01-17 03:01
 bigimg: /img/2018-01-16-blogging-featured.jpeg
-tags: workflow
+tags: workflow, automation
 ---
 After messing around with Wordpress for a long time and never being happy with the performance, things have changed. Couple this with the fact I work on my phone and iPad a lot and I solved two issues with one stone.
 

@@ -1,7 +1,7 @@
 ---
 title: "Bear: The Serious Notes App"
 date: 2017-01-19
-tags: review
+tags: review, automation
 ---
 Notes apps are a strange thing to review. Everyone already has one built into iOS, and the vast majority of people will never look anywhere else. I was one of those people until I was able to delete first party apps, and [much like replacing reminders with Todoist][1] - I've replaced Notes with Bear. Here's my review.
 

@@ -2,7 +2,7 @@
 title: "9.7 iPad Pro Review"
 subtitle: "A True Laptop Replacement?"
 date: 2016-06-24
-tags: review
+tags: review, apple, iPad
 bigimg: /img/ipad-pro-review-featured.jpg
 ---
 Not many reviews are written on that very device, and in terms of mobile devices there can't be many at all. However, now more than ever Apple is positioning their new tablets as true laptop replacements, even though almost every previous model has also been also capable of exactly the same thing.

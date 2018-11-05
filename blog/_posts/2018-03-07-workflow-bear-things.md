@@ -2,7 +2,7 @@
 title: "Workflow - Using Bear For Notes In Things"
 date: 2018-03-07 03:06
 bigimg: /img/2018-03-07-Bear-featured.jpeg
-tags: workflow
+tags: workflow, automation
 ---
 Since starting to use [Things](https://itunes.apple.com/gb/app/things-3/id904237743?mt=8&at=1000ltj4) as my full time task manager I’ve become a bit obsessed with automating everything. Not only have I been building my own Workflows, I’ve been unearthing other people’s for inspiration. A rich vein of resource has been The Sweet Set Up, and [they proposed using one of my favourite note taking apps Bear](https://thesweetsetup.com/using-bear-things-note-attachment-repository/) as a repository for notes related to Things tasks.
 

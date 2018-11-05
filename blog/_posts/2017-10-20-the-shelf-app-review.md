@@ -2,7 +2,7 @@
 title: "The Shelf App Review"
 date: 2017-09-24
 bigimg: /img/shelf-app-review.png
-tags: review
+tags: review, automation
 ---
 A shelf app is a very strange thing to take in. Until Federico [Viticci published his iOS11 concept][1] I hadn’t even considered the idea of needing one. He posed lots of ideas around universal drag and drop that Apple did actually build into the OS, and now this idea of a shelf to drag all those things you’ve picked up before you have a place to drop them is taking off.
 

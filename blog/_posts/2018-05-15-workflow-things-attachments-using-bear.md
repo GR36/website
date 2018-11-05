@@ -3,7 +3,7 @@ date: 2018-5-15 8:20
 bigimg: /img/bear-review-landscape.png
 title: Workflow - Things Attachments Using Bear
 comments: false
-tags: workflow
+tags: workflow, automation
 ---
 I've made no secret that I have been crying out for the ability to add attachment to [Things 3](https://itunes.apple.com/gb/app/things-3/id904237743?at=1000ltj4). I love the app but this is the only thing that is keeping me using [Todoist](https://gr36.com/2017-01-14-todoist-review/) for work related reminders. I have tried loads of different options and work arounds, been [helped out along the way](https://twitter.com/syrinxstarman/status/995692751277645824?s=21), but could never find something good enough. This isn't perfect but the best way is to use Bear to add files as attachments to Things.
 

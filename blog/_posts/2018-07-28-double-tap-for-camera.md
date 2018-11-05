@@ -2,6 +2,7 @@
 title: "The iPhone Needs A Camera Button"
 date: 2018-07-28 12:35
 bigimg: /img/IMG_0610.png
+tags: iPhone
 ---
 The simple fact is, Apple like removing things. From home buttons, to MacBook Pro ports, to [headphone jacks](https://gr36.com/2017-08-27-iphone7-headphonejack/) &#8211; there is a relentless march towards a simple unibody design with as few cut outs as possible. It makes the design of technology sleek, appealing and arguably leaves more room for important things like battery. Although it&#8217;s only when you start using a device that cares more about usability than looking &#8216;sexy&#8217; you realise this is the wrong move. I’m not saying have buttons for everything but I think it&#8217;s time for a dedicated camera button on the iPhone.
 
