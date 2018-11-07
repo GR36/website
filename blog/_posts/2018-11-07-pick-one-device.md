@@ -1,5 +1,5 @@
 ---
-title: "If I Had to Pick One Device"
+title: "If I Had To Pick One Device"
 date: 2018-11-07 19:01
 bigimg: /img/2018-11-07-iPad-pro2018-hero.jpeg
 ---
