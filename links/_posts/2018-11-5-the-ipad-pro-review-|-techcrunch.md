@@ -5,8 +5,6 @@ link: https://techcrunch.com/2018/11/05/review-ipad-pro-pencil-12-9-inch/?guccou
 title: The iPad Pro Review | TechCrunch
 tag: link
 ---
-Review: The iPad Pro and the power of the Pen(cil) | TechCrunch
-
 > Microsoft still hasn’t been able (come at me) to ever get it through their heads that they needed to start by cutting the head off of their OS and building tablet first, then walking backwards. I think now Microsoft is probably much more capable than then Microsoft, but that’s probably another whole discussion.
 
 > Apple went and cut the head off of OS X at the very beginning, and has been very slowly walking in the other direction ever since. But the fact remains that no Surface Pro has ever offered a tablet experience anywhere near as satisfying as an iPad’s.
