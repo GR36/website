@@ -1,5 +1,5 @@
 ---
-title: "How to Use the iPhone XS eSim on EE"
+title: "How To Use The iPhone XS eSim On EE"
 date: 2018-11-08 01:49
 bigimg: /img/2018-11-08-ee-logo.jpeg
 Tags: howto
