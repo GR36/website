@@ -9,4 +9,4 @@ tag: link
 
 Now People that actually use an iPad will begin to tell you what the difference these upgrades make to their usage. Andy's thoughts mirror most of my own and almost make me want to write a post. 
 
-The hardware is only part of the equation - and when looked at individually the upgrades aren't huge. However I have found that the whole package together makes a huge difference to me that its hard to to put my finger on one thing.
+The hardware is only part of the equation - and when looked at individually the upgrades aren't huge. However I have found that the whole package together makes a huge difference to me that it's hard to put my finger on one thing.
