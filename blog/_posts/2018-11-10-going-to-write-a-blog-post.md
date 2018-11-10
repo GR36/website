@@ -1,5 +1,5 @@
 ---
-title: "I Was Going to Write a Blog Post"
+title: "I Was Going To Write A Blog Post"
 date: 2018-11-10 21:00
 bigimg: /img/2018-11-10-writing-pencil.jpeg
 ---
