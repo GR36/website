@@ -1,5 +1,5 @@
 ---
-title: "The Ipad Smart Keyboard"
+title: "The iPad Smart Keyboard"
 date: 2018-11-17 12:47
 bigimg: /img/2018-11-17-smartkeyboard-ipadpro.jpeg
 ---
