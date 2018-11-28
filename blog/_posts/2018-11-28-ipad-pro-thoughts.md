@@ -1,5 +1,5 @@
 ---
-title: "Ipad Pro Thoughts"
+title: "iPad Pro Thoughts"
 date: 2018-11-28 19:43
 bigimg: /img/2018-11-09-iPad-pro-review-hero.png
 ---
