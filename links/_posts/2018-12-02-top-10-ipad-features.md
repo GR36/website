@@ -7,4 +7,4 @@ tag: link
 ---
 > Time for an overhaul, so that—at minimum—two apps can access the audio input at one time. That would let me talk to someone on Skype while recording the conversation with a different app.
 
-This would be huge for me, recording podcasts is the single thing that keeps a MacBook hanging around. I would;d still edit with keyboard and mouse but it’s 100% time for better audio on an iPad. 
+This would be huge for me, recording podcasts is the single thing that keeps a MacBook hanging around. I would still edit with keyboard and mouse but it’s 100% time for better audio on an iPad. 
