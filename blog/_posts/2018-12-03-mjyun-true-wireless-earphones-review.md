@@ -2,6 +2,7 @@
 title: "Mjyun True Wireless Earphones Review"
 date: 2018-12-03 06:28
 bigimg: /img/2018-06-22-mjyun-wireless-featured.jpeg
+tags: review 
 ---
 So, here’s the thing. I receive loads of emails from random PR companies to test products, not as many as real tech reviewers, but enough. They claim to give you free products, but actually want you to pay for them first. I’ve been burnt a few times so typically decline. However I was intrigued to try some AirPods alternatives and I wish I hadn’t bothered.
 
