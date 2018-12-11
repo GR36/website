@@ -1,6 +1,7 @@
 ---
 layout: link
 date: 2018-12-11 19:06
+title: Your Apps Know Where You Were Last Night, and They’re Not Keeping It Secret  | The New York Times
 link: https://www.nytimes.com/interactive/2018/12/10/business/location-data-privacy-apps.html
 tags: link
 ---
