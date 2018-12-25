@@ -8,7 +8,7 @@ tag: link
 
 This is something I have been thinking about a lot recently. I think it’s natural to not want to appear ‘weak’ by admitting you can’t do something. It leaves you feeling a little exposed and vulnerable - if you’re doing something serious. 
 
-But far to many times have I felt inadequate because someone else is better at a task than me. Yet we all have strengths and weaknesses and there is nothing wrong with admiring this to yourself. 
+But far too many times have I felt inadequate because someone else is better at a task than me. Yet we all have strengths and weaknesses and there is nothing wrong with admiring this to yourself. 
 
  
 
