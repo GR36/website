@@ -44,9 +44,9 @@ collections:
       layout: post
       permalink: /:title
 
-    books:
+    photo:
       output: true
-      layout: post
+      layout: photo
       permalink: /:collection/:title
 
     podcast:

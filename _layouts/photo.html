@@ -1,0 +1,97 @@
+---
+layout: base
+---
+
+{% include header.html type="post" %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      {% if page.gh-repo %}
+        {% assign gh_split =  page.gh-repo | split:'/'  %}
+        {% assign gh_user =  gh_split[0]  %}
+        {% assign gh_repo =  gh_split[1]  %}
+
+        <div id="header-gh-btns">
+          {% if page.gh-badge.size > 0 %}
+            {% for badge in page.gh-badge %}
+              {% case badge %}
+                {% when 'star'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'watch'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=watch&v=2&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'fork'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&repo={{ gh_repo }}&type=fork&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                {% when 'follow'%}
+                  <iframe src="https://ghbtns.com/github-btn.html?user={{ gh_user }}&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="20px"></iframe>
+              {% endcase %}
+            {% endfor %}
+          {% endif %}
+        </div>
+      {% endif %}
+
+      <article role="main" class="blog-post">
+        {{ content }}
+      </article>
+
+      {% if page.social-share %}
+        {% include social-share.html %}
+      {% endif %}
+
+      <ul class="pager blog-pager">
+        {% if page.previous.url %}
+        <li class="previous">
+          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+        {% if page.next.url %}
+        <li class="next">
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+      </ul>
+<br/>
+      <div class="rect">
+
+  {% assign maxRelated = 4 %}
+  {% assign minCommonTags =  1 %}
+  {% assign maxRelatedCounter = 0 %}
+
+
+  {% for post in site.posts %}
+
+
+    {% assign sameTagCount = 0 %}
+    {% assign commonTags = '' %}
+
+    {% for tag in post.tags %}
+      {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+          {% assign sameTagCount = sameTagCount | plus: 1 %}
+          {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+          {% assign commonTags = commonTags | append: tagmarkup %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% if sameTagCount >= minCommonTags %}
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              <div class="rel">
+                  <img class="rel-img" src="{{ site.baseurl }}{{post.bigimg}}">
+                  <h5 class="rel-title">{{ post.title }}</h5>
+
+              </div>
+              </a>
+
+      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+      {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+    </div>
+  </div>
+</div>
