@@ -99,16 +99,16 @@ pagination:
 {%- endif -%}
 
 {%- if post.categories contains 'photo' -%}
+      <h2 class="post-title">{{ post.title }}</h2></a>
+      <p class="post-meta">Taken on {{ post.date | date: "%B %-d, %Y" }}
+        </p>
     <div class="post-entry-container">
       <div class="post-entry">
         <a href="{{ post.url | prepend: site.baseurl }}">
           <div class="photo-image">
             <img src="{{ post.photo }}">
             </div>
-          <h2 class="post-title">{{ post.title }}</h2></a>
-          <p class="post-meta">
-            Taken on {{ post.date | date: "%B %-d, %Y" }}
-          </p>
+
         {{ post.content }}
         </div>
     </div>
