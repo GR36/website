@@ -2,7 +2,7 @@
 layout: base
 ---
 
-{% include header.html type="post" %}
+{% include photoheader.html type="post" %}
 
 <div class="container">
   <div class="row">
@@ -13,7 +13,7 @@ layout: base
         {% assign gh_user =  gh_split[0]  %}
         {% assign gh_repo =  gh_split[1]  %}
 
-        
+
       {% endif %}
       <img src="{{ page.photo }}">
         <article role="main" class="blog-post">
