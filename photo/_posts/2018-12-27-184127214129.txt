@@ -1,7 +1,7 @@
 ---
-layout: microblogpost
+layout: photo
 date: '2018-12-27 21:41'
-title: ''
+title: test post
 slug: '184127214129'
 lang: en
 ---
