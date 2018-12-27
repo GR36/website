@@ -1,0 +1,9 @@
+---
+layout: photo
+date: 2018-12-27 21:51
+title: Second test post
+
+---
+Text caption of second test post for images with some small formatting changes
+
+![Monkeys](https://www.gr36.com/img/2018-12-27/Second test post.jpeg)
