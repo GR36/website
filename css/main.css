@@ -404,6 +404,15 @@ footer .theme-by {
 .post-entry {
   width: 100%;
 }
+
+.post-entry img {
+  width: 75%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+}
+
 .post-image {
   float: right;
   height: 192px;
