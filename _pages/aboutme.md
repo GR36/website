@@ -2,6 +2,7 @@
 layout: page
 title: I Hate Writing About Myself
 bigimg: /img/2017-10-25-Apple-fanboy.jpeg
+permalink: /about/
 comments: false
 ---
 It has taken me a surprising amount of time to write this page, not because I don't have time, but because I don't like writing about myself. I am a blogger and podcaster with several years experience in technology circles. As well as working in technology accessibility advice, business consultancy and best of all improving the lives of individuals with various disabilities.
