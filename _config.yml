@@ -16,7 +16,7 @@ default-img: "/img/gr36_logo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Me:
-  - About: "https://gr36.com/aboutme/"
+  - About: "https://gr36.com/about/"
   - Twitter: "https://twitter.com/gr36"
   Content:
   - Podcasts: "https://gr36.com/podcasts/"
@@ -138,10 +138,11 @@ defaults:
       social-share: true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "" # all files
+      path: "_pages" # all files
     values:
       layout: "page"
       show-avatar: true
+
 
 # Use tags index page and make tags on each post clickable
 link-tags: true
@@ -216,6 +217,8 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+
+include: ['_pages']
 
 # prose.io config
 prose:
