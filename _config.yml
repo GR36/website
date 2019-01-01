@@ -16,7 +16,7 @@ default-img: "/img/gr36_logo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Me:
-  - About: "https://gr36.com/aboutme/"
+  - About: "https://gr36.com/about/"
   - Twitter: "https://twitter.com/gr36"
   Content:
   - Podcasts: "https://gr36.com/podcasts/"
