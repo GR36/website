@@ -2,7 +2,7 @@
 title: "Workflow - Natural Language Dates In Things"
 date: 2018-03-03 11:56
 bigimg: /img/2018-03-03-things3-featured.jpeg
-tags: workflow, automation
+tags: shortcuts, automation
 ---
 As you might have [gathered already](http://gr36.com/2018-02-26-workflow-spark-email-to-things/) I have been playing around with [Things 3 from Cultured Code](https://itunes.apple.com/gb/app/things-3/id904237743?mt=8&at=1000ltj4). After being a long time [Todoist](https://itunes.apple.com/gb/app/todoist-organize-your-life/id572688855?mt=8&at=1000ltj4) user it has taken a little getting used to, but the recent updates have made the app provide almost everything that I am looking for. One major missing piece is natural language processing, and once you have started using things in this way it is hard to go back.
 
