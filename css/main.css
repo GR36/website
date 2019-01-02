@@ -52,6 +52,12 @@ blockquote p {
   display: inline;
 }
 
+footnote {
+font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+  color: #404040;
+}
+
 a.footnote:before {   
  content: "[";
 }
