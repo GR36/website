@@ -2,6 +2,7 @@
 title: "Working With Footnotes In Jekyll And Css"
 date: 2019-01-02 13:55
 bigimg: /img/2019-01-02-css-footnotes-featured.jpeg
+tag: howto
 ---
 Whilst spending far too long redesigning this blog, I've come to the conclusion that it look fine the way it is and I couldn't be bothered with a huge change. So instead I've been looking into changing some of the small things. Many of these were pretty easy, but my biggest one was the styling of footnotes.
 
