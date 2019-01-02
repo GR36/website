@@ -52,10 +52,11 @@ blockquote p {
   display: inline;
 }
 
-.footnote {
+.footnotes {
+  font-size: 12px;
 }
 
-a.footnote:before {   
+a.footnote:before {
  content: "[";
 }
 
