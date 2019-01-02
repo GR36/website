@@ -2,6 +2,7 @@
 title: "Depression And Self Worth"
 date: 2018-12-18 08:43
 bigimg: /img/2018-12-18-drepression-featured.jpeg
+categories: Personal
 ---
 I know this might sound surprising and bordering on impossible, but over the past couple of weeks I think I have discovered a huge trigger for my occasional depressive periods.
 

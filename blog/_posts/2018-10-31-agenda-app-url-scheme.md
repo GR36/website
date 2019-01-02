@@ -2,7 +2,7 @@
 title: "Agenda App URL Scheme"
 date: 2018-10-31 10:57
 bigimg: /img/2018-10-30-agenda-hero.png
-tags: automation, iOS, app
+tags: automation, iOS, howto
 ---
 The opinions on Agenda app range from excitement to confusion but it has caused quite a stir in iOS productivity circles. The developers are constantly improving the app and there are now a bunch of automation options available for Agenda via x-callback URL.
 

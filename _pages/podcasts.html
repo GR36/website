@@ -5,7 +5,7 @@ use-site-title: true
 permalink: /podcasts/
 pagination:
   enabled: true
-  tag: podcast
+  categories: Podcast
 ---
 
 <div class="posts-list">
@@ -22,8 +22,10 @@ pagination:
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
+      Recorded on {{ post.date | date: "%B %-d, %Y" }}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#127897; Permalink</a>
     </p>
+
 
     <div class="post-entry-container">
       {% if post.bigimg %}
@@ -34,11 +36,8 @@ pagination:
       </div>
       {% endif %}
       <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
+      {{ post.content }}
+          
       </div>
     </div>
 

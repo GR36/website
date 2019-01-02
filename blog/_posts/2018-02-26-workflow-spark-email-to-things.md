@@ -2,7 +2,7 @@
 title: "Workflow - Spark Email to Things"
 date: 2018-02-26 16:33
 bigimg: /img/2018-02-26-things-hero.jpeg
-tags: workflow, automation
+tags: shortcuts, automation
 ---
 Following the updates to [Things 3](https://itunes.apple.com/gb/app/things-3/id904237743?mt=8&at=1000ltj4) to add in automation features I have been deep into experimenting. Federico over at MacStories [has been publishing his thoughts](https://www.macstories.net/stories/things-automation/) and examples, so I though I would start to share some of mine.
 

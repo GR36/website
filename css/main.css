@@ -52,10 +52,17 @@ blockquote p {
   display: inline;
 }
 
-.footnote {
+.footnotes {
+  font-size: 14px;
+  margin-top: -10px;
+  margin-bottom: 20px;
 }
 
-a.footnote:before {   
+.footnotes p {
+  margin: 10px 30px;
+}
+
+a.footnote:before {
  content: "[";
 }
 
@@ -418,6 +425,8 @@ footer .theme-by {
   font-style: italic;
   margin: 0 0 10px;
 }
+
+
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -457,6 +466,12 @@ footer .theme-by {
 .post-preview .post-read-more {
   font-weight: 800;
   color: #404040;
+}
+.post-preview .link-perma {
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0 0 10px;
 }
 
 @media only screen and (min-width: 768px) {
