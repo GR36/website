@@ -450,6 +450,7 @@ footer .theme-by {
   height: 0;
   overflow: hidden;
   position: relative;
+  margin-bottom: 5px;
 }
 .post-feat img {
   object-fit: cover;
