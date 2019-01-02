@@ -448,7 +448,6 @@ footer .theme-by {
 .post-feat {
   padding-top: 56.25%;
   height: 0;
-  object-fit: cover;
   overflow: hidden;
   position: relative;
 }
