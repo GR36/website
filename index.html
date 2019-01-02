@@ -88,12 +88,12 @@ pagination:
 	  {% endif %}
     <p class="post-meta">
       Recorded on {{ post.date | date: "%B %-d, %Y" }}
+      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#127897; PermaLink</a>
     </p>
 
     <div class="post-entry-container">
       <div class="post-entry">
         {{ post.content }}
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[PermaLink]</a>
       </div>
     </div>
 {%- endif -%}
