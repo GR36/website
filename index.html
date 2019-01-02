@@ -60,7 +60,7 @@ pagination:
 
   {%- if post.categories contains 'links' -%}
       <a href="{{ post.link }}">
-        <h2 class="post-title">{{ post.title }} &#x2192;</h2></a>
+        <h2 class="post-title">{{ post.title }}</h2></a>
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
@@ -68,7 +68,7 @@ pagination:
 	  {% endif %}
     <p class="post-meta">
       Linked on {{ post.date | date: "%B %-d, %Y" }}
-      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#9734; PermaLink</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#128279; PermaLink</a>
     </p>
 
     <div class="post-entry-container">
