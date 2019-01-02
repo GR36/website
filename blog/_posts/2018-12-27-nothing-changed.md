@@ -2,6 +2,7 @@
 title: "Nothing Has Changed In 2 Years"
 date: 2018-12-27 06:59
 bigimg:  /img/2018-12-27-sleep-featured.jpeg
+categories: Personal
 ---
 A few years ago I used to write a lot about Lucie. Mention her a lot in posts about my life and also wrote a few from her perspective. Making light of situations when in reality it was my way of coping with feelings and emotions. 
 
