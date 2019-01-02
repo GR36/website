@@ -425,10 +425,7 @@ footer .theme-by {
   font-style: italic;
   margin: 0 0 10px;
 }
-.post-preview .post-meta,
-.post-heading .post-meta a {
-  text-decoration: none;
-}
+
 
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -469,6 +466,12 @@ footer .theme-by {
 .post-preview .post-read-more {
   font-weight: 800;
   color: #404040;
+}
+.post-preview .link-perma {
+  color: #808080;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0 0 10px;
 }
 
 @media only screen and (min-width: 768px) {
