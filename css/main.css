@@ -54,7 +54,8 @@ blockquote p {
 
 .footnotes {
   font-size: 14px;
-  margin -top: -10px;
+  margin-top: -10px;
+  margin-bottom: 20px;
 }
 
 .footnotes p {
