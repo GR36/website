@@ -449,9 +449,16 @@ footer .theme-by {
   padding-top: 56.25%;
   height: 0;
   object-fit: cover;
+  overflow: hidden;
+  position: relative;
 }
 .post-feat img {
   object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 .post-image {
   float: right;
