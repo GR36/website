@@ -445,7 +445,11 @@ footer .theme-by {
   margin-right: auto;
   border-radius: 25px;
 }
-
+.post-feat{
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
 .post-image {
   float: right;
   height: 192px;
