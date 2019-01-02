@@ -425,6 +425,10 @@ footer .theme-by {
   font-style: italic;
   margin: 0 0 10px;
 }
+.post-preview .post-meta,
+.post-heading .post-meta  a {
+  text-decoration: none;
+}
 .post-preview .post-entry {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
