@@ -1,5 +1,5 @@
 ---
-title: "Working With Footnotes In Jekyll And Css"
+title: "Working With Footnotes In Jekyll And CSS"
 date: 2019-01-02 13:55
 bigimg: /img/2019-01-02-css-footnotes-featured.jpeg
 tag: howto
