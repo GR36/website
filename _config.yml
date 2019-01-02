@@ -35,20 +35,10 @@ collections:
       layout: link
       permalink: /:collection/:title
 
-    notes:
-      output: true
-      layout: post
-      permalink: /:collection/:title
-
     blog:
       output: true
       layout: post
       permalink: /:title
-
-    photo:
-      output: true
-      layout: photo
-      permalink: /:collection/:title
 
     podcast:
       output: true
