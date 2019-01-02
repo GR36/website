@@ -54,11 +54,11 @@ blockquote p {
 
 .footnotes {
   font-size: 14px;
-  
+  margin -top: -10px;
 }
 
 .footnotes p {
-  margin: 10px 20px;
+  margin: 10px 30px;
 }
 
 a.footnote:before {
