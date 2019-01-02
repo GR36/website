@@ -53,7 +53,9 @@ blockquote p {
 }
 
 .footnotes {
-  font-size: 12px;
+  font-size: 14px;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
 }
 
 a.footnote:before {
