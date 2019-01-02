@@ -58,7 +58,7 @@ blockquote p {
 }
 
 .footnotes p {
-  margin: 10px 0;
+  margin: 10px 20px;
 }
 
 a.footnote:before {
