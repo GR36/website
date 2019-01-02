@@ -53,8 +53,6 @@ blockquote p {
 }
 
 .footnote {
-font-size: 12px;
-color: #ccc;
 }
 
 a.footnote:before {   
