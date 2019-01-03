@@ -20,10 +20,8 @@ navbar-links:
   - Twitter: "https://twitter.com/gr36"
   Content:
   - Podcasts: "https://gr36.com/podcasts/"
-  - Blog Posts: "https://gr36.com/blog/"
   - Link Posts: "https://gr36.com/links/"
   - Reviews: "https://gr36.com/reviews/"
-  - Notes: "https://gr36.com/notes/"
   How To:
     - Guides: "https://gr36.com/howto/"
     - Workflows: "https://gr36.com/workflow/"
@@ -102,7 +100,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 google_analytics: "UA-60213860-1"
-excerpt_length: 70
+excerpt_length: 50
 title-separator: "-"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #

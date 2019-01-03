@@ -2,6 +2,7 @@
 title: "iPad Pro Thoughts"
 date: 2018-11-28 19:43
 bigimg: /img/2018-11-09-iPad-pro-review-hero.png
+tag: Review
 ---
 Once upon a time I would 'review' all of my tech purchases, post several hundred if not thousand words of my thoughts and a dive into the device. For the last two models of iPad I have simply shared my thoughts through text and also [podcast](https://byodpodcast.com). There are enough reviews out there for you to find out the specs and technology publication opinions - but now more than ever its important to find out the thoughts of people that actually use the device in question. Well here are mine.
 
@@ -12,7 +13,7 @@ The ‘edge to edge’ screen retains some bezel around the edges, which is the 
 
 The new design is very reminiscent of an older iPhone 5 design, but with a modern feel. It also in some respects feels like a reference design for future products without hardware limitations. I am using the 11” version and it feels much larger than it actually is, a nice big screen which is still very portable and easy to also use as a consumption device.
 
-The smart connector has moved to the back of the device, presumably allowing for a more device ecosystem of accessories. Very few accessories appeared for the previous side mounted version, and unfortunately I don’t seem many flooding the market with this one. Hopefully I will be disappointed, but this does allow for a much better connection using a rediculous number of magnets and an improvement to the first party keyboard. 
+The smart connector has moved to the back of the device, presumably allowing for a more device ecosystem of accessories. Very few accessories appeared for the previous side mounted version, and unfortunately I don’t seem many flooding the market with this one. Hopefully I will be disappointed, but this does allow for a much better connection using a rediculous number of magnets and an improvement to the first party keyboard.
 
 ![](https://www.gr36.com/img/2018-11-17-smartkeyboard-ipadpro.jpeg)
 
@@ -21,7 +22,7 @@ I have loved and loathed the Smart Keyboard in [equal amounts over the last two 
 
 If you hate the keys on the previous version, you’re going to feel the same about the new one. However to me the keys feel more robust and seem to have further travel - combined with much loader clicking!
 
-Using the iPad in the Smart Folio but without the keyboard feels very un-Apple like to me. For all its weirdness at least the origami needed for the Smart Keyboard hid away the keys when not in use, all be it at the expense of a strange hump on the front. The weirdness is mediated a little by how simple it is to remove the Smart Folio, and actually feel the device as Apple intended. I find myself pooping the iPad Pro out of the case when using the pencil or just browsing more than I expected. 
+Using the iPad in the Smart Folio but without the keyboard feels very un-Apple like to me. For all its weirdness at least the origami needed for the Smart Keyboard hid away the keys when not in use, all be it at the expense of a strange hump on the front. The weirdness is mediated a little by how simple it is to remove the Smart Folio, and actually feel the device as Apple intended. I find myself pooping the iPad Pro out of the case when using the pencil or just browsing more than I expected.
 
 ![](https://gr36.com/img/2018-11-10-apple-pencil2018.jpeg)
 
@@ -33,14 +34,14 @@ The second version mediates almost all of those issues, except the use case. Unl
 The second generation is shorter, more balanced and flat on one side. Making it more pencil like, and also allowing it to stick to the side of the iPad and wirelessly charge. Not only removing the need to look like a idiot every time you charge the thing, but also giving it a place to be stored and removing the anxiety enduceing end cap.
 
 ## USB-C
-The move away from Lightning hasn’t added any extra features to the iPad, but has made them more accessible and dare I say it interesting. It is slightly strange to find the port isn’t a Thunderbolt 3 variant, but is still capable of supporting an external display up to 5k. 
+The move away from Lightning hasn’t added any extra features to the iPad, but has made them more accessible and dare I say it interesting. It is slightly strange to find the port isn’t a Thunderbolt 3 variant, but is still capable of supporting an external display up to 5k.
 
 Having tested several apps it is clear nothing extra stands out but it has allowed me to use my already amassed selection of USB-C cables from my MacBook Pro. Cheaper option for USB-C to HDMI and also dongles mean the dream of not carrying a laptop at all are getting a whole lot closer.
 
 ![](https://gr36.com/img/2018-11-07-iPad-pro2018-hero.jpeg)
 
 ## Conclusion
-The 2018 iPad has proved to be a worthy upgrade *for me*, it has improved on lots of little things that while weren't detrimental, they where annoying. 
+The 2018 iPad has proved to be a worthy upgrade *for me*, it has improved on lots of little things that while weren't detrimental, they where annoying.
 
 With that said Apples recent trend of increasing the price and providing less equipment in the box is getting close to putting me off. All of the iPad’s have increased in price, there is no headphone dongle, no spare Apple Pencil tips and nothing to say Apple wont continue this trend. If asked what iPad should I buy, I would give most users the choice between the £329 iPad and the much cheaper 10.5” iPad pro.
 

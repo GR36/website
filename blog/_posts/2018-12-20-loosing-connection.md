@@ -2,7 +2,7 @@
 title: "Loosing Connection - And My Mind"
 date: 2018-12-20 09:08
 bigimg: /img/2018-12-20-connection-featured.jpeg
-categories: Personal
+tag: Personal
 ---
 Last week we moved house. I’m not sure what possessed us to do this a week before Christmas, but we didn’t have much choice in the matter. The general belief is that this is one of the most stressful things to do, yet we project managed our way though it and it went brilliantly. Apart from one small detail - we had no internet connection or TV for a whole week.
 

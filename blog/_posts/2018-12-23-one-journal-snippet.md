@@ -2,9 +2,9 @@
 title: "One Journal Snippet"
 date: 2018-12-23 16:57
 bigimg: /img/2018-12-23-journal-featured.jpeg
-categories: Personal
+tag: Personal
 ---
-I have never shared anything like this before. Admittedly I share quite a lot but my journal entries [^1] are deeply private and actually embarrassing in some instances. Yet I wrote this short snippet in today and wanted to share it with whoever reads my blog. 
+I have never shared anything like this before. Admittedly I share quite a lot but my journal entries [^1] are deeply private and actually embarrassing in some instances. Yet I wrote this short snippet in today and wanted to share it with whoever reads my blog.
 
 > I’m writing these things for future me to read and understand this is where you made your stand. This is the lowest point that you will build from, no more stress, no more worry.
 
