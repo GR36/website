@@ -44,7 +44,7 @@ collections:
       permalink: /:collection/:title
       
     notes:
-      output: false
+      output: true
       layout: post
       permalink: /:collection/:title
 
