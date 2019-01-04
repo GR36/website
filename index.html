@@ -11,7 +11,7 @@ pagination:
   {% for post in paginator.posts %}
 <article class="post-preview">
 
-{%- if post.categories contains 'blog' -%}
+{%- if post.categories contains 'blog' or 'shortcuts' -%}
   <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">{{ post.title }}</h2></a>
   <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}

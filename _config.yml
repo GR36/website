@@ -38,6 +38,11 @@ collections:
       layout: post
       permalink: /:title
 
+    shortcuts:
+      output: true
+      layout: link
+      permalink: /:collection/:title
+
     podcast:
       output: true
       layout: post
