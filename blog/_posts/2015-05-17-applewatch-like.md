@@ -1,7 +1,7 @@
 ---
 title: I Like This Apple Watch More Than I Thought
 date: 2015-05-17
-tags: Watch
+tag: Watch
 ---
 Since journeying back to using my iPhone more than anything else (for reasons see [Nitroz blog post][1]) I have been stuck in term of wearables. My Moto 360 or G Watch R have been invaluable to me in daily life, allowing me to filter emails from work or just spend less time checking my phone. The pebble is great and all but it just doesn’t cut it when compared to Android Wear.
 

@@ -1,7 +1,7 @@
 ---
 title: LG G Watch R Review
 date: 2014-12-14
-tags: Review
+tag: Review
 bigimg: https://cdn-images-1.medium.com/max/800/0*IITzrZd5CrShjInK.jpg
 ---
 Round is cool. That’s just a fact — wheels, money, Oreos… they’re all brilliant. We’ve only seen two attempts at round Android Wear watches, and just one if you count the flat tyre of the Moto 360. Why there isn’t more, only manufacturers know. Most have adopted the safe haven of a square. So here we are, left with the LG G Watch R.
