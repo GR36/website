@@ -2,7 +2,7 @@
 title: Building A Micro Blog On Jekyll
 date: 2018-01-20 16:14
 bigimg: /img/2018-01-20-microblog-howto-featured.jpeg
-tags: howto
+tags: How To
 ---
 After exploring other options to sharing on social media and [using Micro.blog](http://gr36.com/2018-01-20-using-microblog/) I’m stuck. There doesn’t seem to be the perfect option out there to fulfil all of my needs so for now I still to my own blog.
 
