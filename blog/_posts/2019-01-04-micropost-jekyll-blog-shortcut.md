@@ -2,6 +2,7 @@
 title: "Shortcut: Micropost To Jekyll Blog"
 date: 2019-01-04 14:14
 bigimg:  /img/2019-01-04-coding-MacBook.jpeg
+tag: shortcut
 ---
 You may remember me trying to quit Twitter (well in fact I've tried several times) and [start using micro.blog](https://www.gr36.com/2018-05-25-you're-not-cool-enough-for-micro.blog/). This didn't work, for various reasons, so I have resurrected my project to try and [build a version](https://www.gr36.com/2018-01-20-building-a-micro-blog-on-jekyll/) on my own blog.
 
