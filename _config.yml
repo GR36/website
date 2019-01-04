@@ -24,7 +24,7 @@ navbar-links:
   - Reviews: "https://gr36.com/reviews/"
   How To:
     - Guides: "https://gr36.com/howto/"
-    - Workflows: "https://gr36.com/workflow/"
+    - Shortcuts: "https://gr36.com/shortcuts/"
 
  # Collections
 collections:
@@ -47,7 +47,7 @@ collections:
       output: true
       layout: post
       permalink: /:collection/:title
-      
+
     notes:
       output: true
       layout: post
