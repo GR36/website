@@ -1,5 +1,5 @@
 ---
-title: "Workflow - Spark Email to Things"
+title: "Shortcuts: Spark Email to Things"
 date: 2018-02-26 16:33
 bigimg: /img/2018-02-26-things-hero.jpeg
 tags: shortcuts, automation

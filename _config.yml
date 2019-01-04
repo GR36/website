@@ -47,6 +47,11 @@ collections:
       output: true
       layout: post
       permalink: /:collection/:title
+      
+    notes:
+      output: true
+      layout: post
+      permalink: /:collection/:title
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,
@@ -211,7 +216,7 @@ exclude:
   - README.md
   - Vagrantfile
 
-include: ['_pages']
+include:  ['_pages','shortcuts']
 
 # prose.io config
 prose:
