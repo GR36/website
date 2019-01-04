@@ -1,7 +1,7 @@
 ---
 title: "Zoho Notebook Review"
 date: 2017-06-11
-tags: review, automation
+tags: Review, Automation
 ---
 ![][image-1]
 There can’t be many iOS or Mac app for note taking that I still haven’t tried. As soon as I’ve reviewed an app, gone through all the setting up process and made a choice to switch, I start looking around for other apps. I have a major fear of missing out on something that could be a better fit. Truth be told it costs me a fortune, subscription services or expensive one off payments seem to be normal now - but not with Zoho Notebook.

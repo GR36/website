@@ -2,7 +2,7 @@
 title: "My Favourite Drafts 5 Actions"
 date: 2018-05-23 18:41
 bigimg: /img/2018-05-23-drafts-darkmode.png
-tags: automation
+tags: Automation
 ---
 Despite [Drafts](https://itunes.apple.com/gb/app/drafts-5-capture-act/id1236254471?at=1000ltj4) being around for ages, I am very new to using it for any length of time. I've already posted about my [love of the app after giving it a chance](https://gr36.com/2018-04-29-finding-use-for-drafts/), so I won't go into that here but thought I'd share some of my most used and favourite actions.
 

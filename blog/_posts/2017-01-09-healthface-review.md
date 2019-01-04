@@ -1,7 +1,7 @@
 ---
 title: "Healthface - An Uncomplicated Apple Watch Complication"
 date: 2017-01-09
-tags: review, apple watch
+tags: Review, Watch
 ---
 I held out as long as I could, but I have now caved and bought a Series 2 Apple Watch. Not because it is anything revolutionary, not because I accidentally killed my original version (although I kinda did) but because health and fitness has become so important to me I feel the investment is worth it. I have also found a perfect complication to match my new Nike + version - Healthface.
 

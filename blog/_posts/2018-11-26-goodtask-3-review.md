@@ -2,7 +2,7 @@
 title: "GoodTask 3 - Supercharge Apple Reminders"
 date: 2018-11-26 19:28
 bigimg: /img/2018-11-24-GoodTask-featured.jpeg
-tag: Review
+tag: Review, Automation
 ---
 For longer than I care to remember, or admit to, I have been searching for the perfect task manager. I am definitely not alone in the feeling that there wasn't a service that seemed to fit. [Todoist](https://gr36.com/2017-01-14-todoist-review/) almost got there, Things 3 is pretty good, but no service ticked all the boxes and I went backwards and forwards between them more than a handful of times. Thankfully I think I’ve cracked it, and it's an add on service for the stock reminders app - I think Goodtasks3 is the perfect solution.
 

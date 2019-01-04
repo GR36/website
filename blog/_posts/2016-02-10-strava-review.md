@@ -2,7 +2,7 @@
 title: "Strava Review - the Next Level in Exercise Motivation"
 date: 2016-02-10
 bigimg: https://gr36.github.io/img/2017-12-29-Strava-review-featured.png
-tags: [app]
+tags: Review
 ---
 Well, it’s February, still the time of year that packs out the gyms, every shop is trying to sell you gear to get you active, and all the exercise companions appear. There is no reason to bother with all the new apps and gadgets as there is a reasonably old one that could be the best of them all. Strava combines performance recording with friendly competition for everyone from fit to first timer.
 

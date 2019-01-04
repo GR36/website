@@ -2,7 +2,7 @@
 title: Today’s Forecast Review
 date: 2017-08-29
 bigimg: /img/Image-29-08-2017-09-19.jpeg
-tags: review
+tags: Review
 ---
 There is nothing more British than talking about the weather. Perhaps it’s our every changing climate, but for some reason it’s a national past time. Your daily knowledge of the incoming drizzle must be at Olympic level, so a good weather app is a must. There are quite a few out there, some good, some bad, and some with too much information to take in. Today’s Forecast hopes to change all that, by giving users all the important information quickly and easily at any time.
 
