@@ -211,8 +211,7 @@ exclude:
   - README.md
   - Vagrantfile
 
-include:  ['_pages']
-          ['shortcuts']
+include:  ['_pages','shortcuts']
 
 # prose.io config
 prose:
