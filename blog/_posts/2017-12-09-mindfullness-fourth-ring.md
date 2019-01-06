@@ -2,7 +2,7 @@
 title: "Exclusive: Mindfulness to Become Fourth Circle To Fill"
 date: 2017-12-09
 bigimg: /img/Image-25-09-2017-17-14.b5ea665e05e74e828b36da7e9a52ef2f.jpeg
-tags: apple
+tag: apple
 ---
 Mindfulness or meditation has existed for thousands of years but has experienced a huge boom over the last few years. The benefits of  bringing your concentration on your breath are almost undeniable, but it has experienced a boom in recent years and is particularly prevalent in Silicone Valley. With that in mind Apple are exploring the option to add the practice as a fourth ‘ring’ to fill.
 

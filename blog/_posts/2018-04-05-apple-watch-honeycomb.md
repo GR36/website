@@ -2,7 +2,7 @@
 title: "The Apple Watch Honeycomb"
 date: 2018-04-05 09:37
 bigimg: /img/2018-04-04-applewatch-honeycomb.jpeg
-tags: apple watch
+tags: Watch
 ---
 Right from the off the Apple Watch got a tremendous amount of negative reaction. Reviewers said it was under powered, [looked strange](http://www.theverge.com/a/apple-watch-review) and the OS felt like a confusing mess. Some had valid points about watchOS, and ever since Apple have been stripping away parts to make it more cohesive. Yet the hate for the ‘honeycomb’ layout app grid remains - but I like it.
 

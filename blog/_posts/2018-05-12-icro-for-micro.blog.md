@@ -3,7 +3,7 @@ date: 2018-5-12 13:58
 bigimg: /img/2018-05-09-icro-logo.png
 title: Icro For Micro.blog
 comments: false
-tags: Review
+tags: Review, iPhone
 ---
 I have been trying to escape social media for a long time now. I love being social and sharing things, but I don't want all the abuse and other issues that go with it. I went [backwards and forwards with micro.blog](https://gr36.com/2018-01-20-using-microblog/) a little while ago. Decided to try and [build my own](https://gr36.com/2018-01-20-building-a-micro-blog-on-jekyll/), but I've really settled into using the platform since [adopting Drafts](https://gr36.com/2018-04-29-finding-use-for-drafts/). The original app for iOS is a little basic, but the platform is completely open to building a whole range of others. Enter one of the first - [Icro](https://itunes.apple.com/gb/app/icro/id1375296597?mt=8).
 

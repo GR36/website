@@ -2,7 +2,7 @@
 title: "Jisoncase iPhone X Leather Case Review"
 date: 2018-07-13 13:53
 bigimg: /img/2018-06-22-jisoncase-iPhonex-featured.jpeg
-tags: review
+tags: Review, iPhone
 ---
 As much as people try and convince me otherwise, since the iPhone 6 I just cant use my phone without a case on. The rounded corners and slippery materials leave me with too much worry that my phone will drop to the floor at any moment. I’ve tried loads of cases, from dirt cheap to surprisingly expensive - but stuck with an Apple version as it simply fit and feels the best. This isn’t [set in stone though](https://gr36.com/2017-12-29-lopie-sea-island-review/) so when Jisoncase offered to send me their leather case for my iPhone X I jumped at the chance.
 

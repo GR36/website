@@ -2,7 +2,7 @@
 title: "Journaling With Day One Review"
 date: 2017-12-20
 thumb: /img/2017-12-09-day-One-mockups.png
-tags: Review, Automation
+tag: Review, Automation
 ---
 I’ve been toying with the idea of journaling for a long time. I’ve started jotting things down several times, but never really got the hang of it. Although I liked the idea of having a [physical diary of my thoughts][1], I was always worried it wouldn’t stay personal. So a digital version seemed like the only way and thats where Day One comes it. Helping me to journal as much as I like keeping it safe and secure.
 

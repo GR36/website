@@ -2,7 +2,7 @@
 title: "Slowness Isn’t The Issue"
 date: 2018-01-05
 bigimg: /img/2018-01-05-iphone-battery-featured.jpeg
-tags: iPhone
+tag: iPhone
 ---
 Apple [didn’t apologise][1] for slowing your phone down. Not because of arrogance, not because they don’t care, but because they really didn’t have to. A phone getting slower over time is really not the issue here, the issue is transparency and communication (and perhaps a little bit of urban legend).
 

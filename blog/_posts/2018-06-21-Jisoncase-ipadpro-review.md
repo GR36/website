@@ -2,7 +2,7 @@
 title: "Jisoncase iPad Pro Case Review"
 date: 2018-6-21 15:10
 bigimg: /img/2018-06-21-jisoncase-desk2.jpeg
-tags: review
+tags: review, iPhone
 ---
 For as long as I have been using an iPad as my main computer I have struggled with where to keep it. I have never been a fan of many case designs as they often add a lot of weight which makes holding an iPad much more difficult. Couple this with the fact a case is pretty much redundant while in use, it's usually in my hand or being used propped up in the Smart Keyboard, there simply hasn’t been anything to fill the void.
 
