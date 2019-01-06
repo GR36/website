@@ -2,7 +2,7 @@
 title: "I Can't Settle on an Apple Watch Face"
 date: 2018-10-20 09:28
 bigimg: /img/2018-10-20-Apple-watch.jpeg
-tags: apple watch
+tags: watch
 ---
 Over the last few weeks there has been a great [deal of negativity](https://marco.org/2018/10/09/infograph-legibility) about Apple Watch faces. Much like criticism of the [honeycomb layout](https://gr36.com/2018-04-05-apple-watch-honeycomb/), I have no idea why it has taken 4 iterations of the Apple Watch for users to start moaning about custom watch faces, but they are now very vocal.
 

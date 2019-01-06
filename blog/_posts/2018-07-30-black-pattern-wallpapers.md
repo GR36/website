@@ -1,7 +1,7 @@
 ---
 title: "Black Pattern Wallpapers"
 date: 2018-07-30 03:55:54
-tags: iPhone, iPad
+tags: iPhone
 ---
 Thanks to the iPhone X OLED display I am even more in love with black wallpapers than normal. I roll my eyes a little when people [claim to save battery](https://www.howtogeek.com/131823/htg-explains-does-black-wallpaper-save-battery-on-your-mobile-devices/), but they definitely save my eyes. Using black also seems to help not put as much stress on my brain. By switching to a black wallpaper I stuffer from far fewer headaches if I am stuck using my phone for extended periods of time.
 

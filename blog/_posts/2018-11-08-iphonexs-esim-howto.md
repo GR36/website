@@ -2,7 +2,7 @@
 title: "How To Use The iPhone XS eSim On EE"
 date: 2018-11-08 01:49
 bigimg: /img/2018-11-08-ee-logo.jpeg
-tags: How To
+tags: How To, iPhone
 ---
 After a few days of false information, forum posts that have half truths in them and a couple of telephone calls - I have managed to set up my iPhone XS with dual sims and here is how to do it.
 
