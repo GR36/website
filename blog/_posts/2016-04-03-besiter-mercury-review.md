@@ -2,7 +2,7 @@
 title: "Besiter Mercury Powerbank Review"
 date: 2016-04-03
 bigimg: /img/2016-04-03-besiter-mercury-featured.jpg
-tags: review
+tags: Review
 ---
 Ever been taken out by the dreaded red battery level when yo want to get something done. Thats more of an open question, because we all have. Our mobile life is increasingly battery heavy so to avoid that warning boxes before your day is done, you need a power bank. Heres my review of the Besiter Mercury Powerbank.
 

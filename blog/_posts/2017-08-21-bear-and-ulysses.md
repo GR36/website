@@ -1,7 +1,7 @@
 ---
 title: "Bear and Ulysses"
 date: 2017-08-2
-tags: review, automation
+tags: Review, Automation
 ---
 If you have read a few posts on my blog, you will know I have a soft spot for productivity apps, ever searching for the best thing. Well I used to also do that with writing apps, my devices have gone through a slew of writing apps over the last few years. My iPad is my primary computer, and writing my primary aim, so the right app is important - I think I found them.
 

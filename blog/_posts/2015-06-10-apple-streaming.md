@@ -2,7 +2,7 @@
 title: An Apple Streaming Service Was Unavoidable
 date: 2015-06-10
 bigimg: https://cdn-images-1.medium.com/max/800/0*5H8Wn1RE0AYGeYj0.png
-tags: apple
+tag: apple
 ---
 For millions and millions of mobile users iTunes is inseparable from music. Since the birth of the iPod Apple’s platform supplies anything they wish to listen to — all be it 99p per track at a time. Unfortunately for Apple much as the 8 track, the cassette tape and the CD before it; the digital download began to die.
 

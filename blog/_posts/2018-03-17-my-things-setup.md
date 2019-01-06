@@ -2,7 +2,7 @@
 title: "My Things Setup"
 date: 2018-03-17 11:49
 bigimg: /img/2018-03-17-things-setup-featured.png
-tags: review
+tags: Review, Automation
 ---
 Since the massive 3.4 update I have been playing with the todo app Things quite a lot. This is no surprise if you’ve followed me since then because the feed has been filled with [workflows](https://gr36.com/tag/workflow).  I have watched countless videos and read loads of blog posts of other people set ups, so I though I would share my own.
 
