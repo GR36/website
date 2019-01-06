@@ -1,7 +1,7 @@
 ---
-title: "Workflow - Bear And Things For Ideas"
+title: "Shortcuts: Bear And Things For Ideas"
 date: 2018-03-13 19:49
-tags: workflow, automation
+tags: shortcuts, automation
 ---
 This is becoming a bit of a regular occurrence, I’m on a roll creating Workflows to make my writing easier. This latest one uses my new todo app [Things](https://itunes.apple.com/gb/app/things-3/id904237743?mt=8&at=1000ltj4) and my favourite notes app [Bear](https://itunes.apple.com/gb/app/bear/id1016366447?mt=8&at=1000ltj4) to make sure I catch all the ideas I have for blog posts.
 

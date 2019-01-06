@@ -2,7 +2,7 @@
 title: "What Does A Swipe Do"
 date: 2017-12-05
 bigimg: /img/control-indicator.png
-tags: apple, iPhone
+tag: apple, iPhone
 ---
 On a recent [episode of Bring Your Own Device][1] I was adamant that the recent control centre indicator was a weird bug and would soon go away. Yet here we are with iOS 11.2 now public and it’s still there! The reason I was so sure is that Apple has never relied on indicating things more than once - the reason I was wrong is that Apple don’t seem to know what they are doing any more.
 

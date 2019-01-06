@@ -1,5 +1,5 @@
 ---
-title: "Workflow - Interesting Links To Things"
+title: "Shortcuts: Interesting Links To Things"
 date: 2018-03-04 16:33
 bigimg: /img/2018-03-04-things-featured.jpeg
 tags: shortcuts, automation

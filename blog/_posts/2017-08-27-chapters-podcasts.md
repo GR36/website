@@ -2,7 +2,7 @@
 title: How to put chapters into your podcast
 date: 2017-08-27
 bigimg: /img/chapters-featured.jpg
-tags: howto
+tags: How To
 ---
 Aside from the company future looking a little bleak, one of the motivating reasons behind moving [Bring Your Own Device][1] from Soundcloud was to add in chapter markers for our listeners. Several shows have been doing this for quite a while and it makes it so simple to find the news we are talking about. This week I finally got around to doing it and here is how you can do it too.
 

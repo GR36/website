@@ -1,7 +1,7 @@
 ---
 title: "My Favourite Mac Apps"
 date: 2017-12-27
-tags: review
+tag: Review
 bigimg: /img/macbook-coffee.jpg
 ---
 There have been several posts just like this one floating around the web over the last few days. Some written simply to cash in on people searching for apps for their new devices gifted over the holidays. However [many have been genuinely useful][1] and I have discovered some great apps that I never knew existed. So taking inspiration from those, these are my favourite macOS apps this year.

@@ -2,7 +2,7 @@
 title: "iPhone Lopie Sea Island Cotton Series Case"
 date: 2017-12-29
 bigimg: /img/2017-12-28-Lopie-seaisland-featured.png
-tags: review
+tag: Review
 ---
 You will often find me spending far too much money on productivity apps, but I have another love. Cases are another thing I am never happy with, always looking for the new thing that will keep my pride and joy safe.
 

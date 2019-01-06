@@ -2,7 +2,7 @@
 title: "RememBear- Password Manager With Personality"
 date: 2017-12-12
 bigimg: /img/2017-12-12-Remembear-featured.png
-tags: review
+tag: Review
 ---
 There are a huge variety of password managers out there now, unfortunately some people still resort to [writing them down][1]! The creators of TunnelBear have launched a new app to try and make Password Managers more fun and user friendly. RememBear aims to boost the levels of password manager usage with their usual cute animals.
 

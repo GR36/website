@@ -1,9 +1,9 @@
 ---
 date: 2018-5-15 3:01
 bigimg: /img/2018-05-15-shoppinglist.png
-title: Workflow - Shopping List In Things
+title: "Shortcuts: Shopping List In Things"
 comments: false
-tags: workflow, automation
+tags: shortcuts, automation
 ---
 As I slowly split my life into different sections, and live a life with different apps for home and work - [Things 3](https://itunes.apple.com/gb/app/things-3/id904237743?mt=8&at=1000ltj4) has become vitally important. It takes a more relaxed approach than [Todoist](https://gr36.com/2017-01-14-todoist-review/) and allows me to remember things to do but not feel stressed about them.
 

@@ -2,7 +2,7 @@
 title: "HomePod Initial Impressions"
 date: 2018-02-11 20:00
 bigimg: /img/2018-02-11-homepod-impressions-featured.jpg
-tags: review
+tags: Review
 ---
 The HomePod itself it deceptively small, but surprisingly heavy. It comes boxed in the usual Apple style - paying particular attention to the experience of sliding off the top and uncovering the HomePod it all its glory. Bar the device itself there is little else in the box apart from a small information card and a single Apple logo sticker.
 

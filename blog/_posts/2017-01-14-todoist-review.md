@@ -1,7 +1,7 @@
 ---
 title: "Todoist- My New App to Get Things Done"
 date: 2017-01-14
-tags: review, automation
+tags: Review, Automation
 bigimg: /img/2017-10-24-Todoist-review-iphones.png
 ---
 For as long as I can remember I've had a weird draw to organising things. It started with stationary and folders, and in the digital age expanded into spreadsheets and lists. I consider myself an organised person - yet one app has improved this further, [Todoist](https://itunes.apple.com/gb/app/todoist-organize-your-life/id572688855?mt=8&at=1000ltj4).

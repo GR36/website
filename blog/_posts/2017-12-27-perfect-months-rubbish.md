@@ -2,7 +2,7 @@
 title: Perfect Months Don’t Mean A Dam Thing
 date: 2017-12-27
 bigimg: /img/apple-watch-worn.jpg
-tags: apple watch
+tag: Watch
 ---
 I have had somewhat of a love / hate relationship with Apple Watch. I love the majority of its health features. It has allowed me to listen far more closely to my body and my activity levels. Alongside also frustrating me with achievements that I cannot and should not be able to achieve.  Unfortunately fellow users I am here to tell you that your pictures of your perfect month achievement on social media means sod all.
 

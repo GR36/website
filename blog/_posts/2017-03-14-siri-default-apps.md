@@ -2,7 +2,7 @@
 title: "Siri falls down at default apps"
 date: 2017-03-14
 bigimg: /img/siri-wave.jpg
-tags: apple
+tags: Automation
 ---
 I know, I know I'm calling for Siri to get better again. Yet nothing has brought the downfalls of Apples voice assistant to the forefront than spending some time using Apples new AirPods. There has always been issues with using Siri and granted Apple are working hard at [fixing and improving things][1], but Apple are now so far behind others is it possible to catch up?
 

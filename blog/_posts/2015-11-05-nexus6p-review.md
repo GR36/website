@@ -1,7 +1,7 @@
 ---
 title: Nexus 6p - When P Means Premium
 date: 2015-11-05
-tags: review
+tags: Review
 ---
 Well they finally did it. Google finally listened to all us geeks and produced a premium phone for the 7th generation of its Nexus line. A show stopper, Google produced the pinnacle of what they believe an android phone should be, and how it should work. This is the Nexus 6p — and when p stands for premium all others should take note.
 
