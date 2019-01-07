@@ -50,7 +50,7 @@ collections:
 
     notes:
       output: true
-      layout: minimal
+      layout: post
       permalink: /:collection/:title
 
 
