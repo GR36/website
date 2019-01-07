@@ -40,7 +40,7 @@ collections:
 
     shortcuts:
       output: true
-      layout: link
+      layout: post
       permalink: /:collection/:title
 
     podcast:
