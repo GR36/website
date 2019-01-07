@@ -48,11 +48,6 @@ collections:
       layout: post
       permalink: /:collection/:title
 
-    notes:
-      output: true
-      layout: post
-      permalink: /:collection/:title
-
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
