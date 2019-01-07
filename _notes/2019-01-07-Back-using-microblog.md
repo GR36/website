@@ -1,6 +1,7 @@
 ---
 title: Back using microblog
 date: 07-01-2019 21:42
+layout: post
 ---
 So a few month ago I was using micro.blog a lot. In fact quite few people called me a [micro.blog evangelist](https://gr36.com/2018-05-25-you're-not-cool-enough-for-micro.blog/). But not long after the post above I left and deleted my account. 
 
