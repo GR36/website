@@ -16,15 +16,15 @@ default-img: "/img/gr36_logo.jpg"
 # List of links in the navigation bar
 navbar-links:
   Me:
-    - About: "https://gr36.com/about/"
-    - Twitter: "https://twitter.com/gr36"
-    Podcasts: "https://gr36.com/podcasts/"
-    Posts:
-    - Micro Blog: "https://gr36.com/micro/"
-    - Link Posts: "https://gr36.com/links/"
-    - Reviews: "https://gr36.com/reviews/"
+  - About: "https://gr36.com/about/"
+  - Twitter: "https://twitter.com/gr36"
+  Content:
+  - Podcasts: "https://gr36.com/podcasts/"
+  - Link Posts: "https://gr36.com/links/"
+  - Reviews: "https://gr36.com/reviews/"
+  How To:
     - Guides: "https://gr36.com/howto/"
-    Shortcuts: "https://gr36.com/shortcuts/"
+    - Shortcuts: "https://gr36.com/shortcuts/"
 
  # Collections
 collections:
@@ -48,7 +48,7 @@ collections:
       layout: post
       permalink: /:collection/:title
 
-    micro:
+    notes:
       output: true
       layout: post
       permalink: /:collection/:title
