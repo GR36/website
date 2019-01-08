@@ -5,4 +5,6 @@ layout: post
 ---
 I guess the best way for me to do this whole micro posting thing is to set up my own and post everywhere. 
 
-I don't want to move to Wordpress, and I still can't get the damn [Micropub to github](https://github.com/voxpelli/webpage-micropub-to-github) to work. Stuck! So this will have to do for now 
+I don't want to move to Wordpress, and I still can't get the damn [Micropub to github](https://github.com/voxpelli/webpage-micropub-to-github) to work. Stuck! So this will have to do for now. 
+
+P.s. this is kind of a test post to see if this actually works. 
