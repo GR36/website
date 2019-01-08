@@ -2,7 +2,6 @@
 title: You don’t need to be sorry
 date: 08-01-2019 08:26
 ---
-# You don’t need to be sorry
 Every now and then I simply leave twitter alone for a bit. I've tried to properly quit a few times but it never really works, I simply have too much invested in the service and meet too many cool people. 
 
 Sometimes I just need a break and quite often notice this feeling before it gets out of hand. However there is nothing wrong, you don't need to be sorry for me, I want some time away from all the noise. 
