@@ -48,7 +48,7 @@ collections:
       layout: post
       permalink: /:collection/:title
 
-    notes:
+    micro:
       output: true
       layout: post
       permalink: /:collection/:title
