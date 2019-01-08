@@ -1,6 +1,7 @@
 ---
 title: "Awesome Wallpapers For Everyone"
 date: 2018-10-30 08:11
+layout: post
 ---
 ![](https://gr36.com/img/2018-09-29-wallpapers-iphonexs.png)
 

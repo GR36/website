@@ -1,7 +1,7 @@
 ---
 title: "Todoist Zero Wallpapers"
 date: 2018-11-14 21:06
-tag: note
+layout: post
 ---
 ![](https://gr36.com/img/2018-11-14-Doist-wallpaper.png)
 
