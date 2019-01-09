@@ -23,9 +23,8 @@ navbar-links:
   - Micro Blog: "https://gr36.com/micro/"
   - Link Posts: "https://gr36.com/links/"
   - Reviews: "https://gr36.com/reviews/"
-  How To:
-    - Guides: "https://gr36.com/howto/"
-    - Shortcuts: "https://gr36.com/shortcuts/"
+  - Guides: "https://gr36.com/howto/"
+  Shortcuts: "https://gr36.com/shortcuts/"
 
  # Collections
 collections:
