@@ -18,7 +18,9 @@ navbar-links:
   Me:
   - About: "https://gr36.com/about/"
   - Twitter: "https://twitter.com/gr36"
-  Podcasts: "https://gr36.com/podcasts/"
+  Podcasts:
+  - And You Are: "https://gr36.com/andyouare/"
+  - BYOD: "https://gr36.com/byod/"
   Content:
   - Micro Blog: "https://gr36.micro.blog"
   - Link Posts: "https://gr36.com/links/"
