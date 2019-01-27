@@ -9,15 +9,11 @@ pagination:
 ---
 Short discription here about the podcast.
 
-{% for post in paginator.posts %}
+<div class="posts-list">
+  {% for post in paginator.posts %}
 <article class="post-preview">
 <a href="{{ post.link }}">
   <h2 class="post-title">{{ post.title }}</h2></a>
-{% if post.subtitle %}
-<h3 class="post-subtitle">
-{{ post.subtitle }}
-</h3>
-{% endif %}
 <p class="post-meta">
 Recorded on {{ post.date | date: "%B %-d, %Y" }}
 <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#127897; Permalink</a>
@@ -30,3 +26,4 @@ Recorded on {{ post.date | date: "%B %-d, %Y" }}
 </div>
 </div>
 </article>
+</div>
