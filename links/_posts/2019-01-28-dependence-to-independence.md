@@ -2,6 +2,7 @@
 title: "Sunday Firesides: Dependence To Independence | The Art Of Manliness"
 date: 2019-01-28 05:59
 link: https://www.artofmanliness.com/articles/sunday-firesides-dependence-to-independence/
+layout: link
 ---
 > Unfortunately, many people don’t outgrow this phase of infantile dependence. They still primarily try to get what they want by manipulating others, by having a “tantrum,” by metaphorically quivering their lip or pooping in their pants and then waiting for someone to notice. They wait for a solution to their problems to arrive from the outside.
 
