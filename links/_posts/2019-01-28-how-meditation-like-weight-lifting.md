@@ -1,7 +1,8 @@
 ---
 title: "How Meditation Is Like Weight Lifting | Philip Brewer"
 date: 2019-01-28 18:14
-link: https://www.philipbrewer.net/2019/01/27/how-meditation-is-like-weight-lifting/
+link: https://www.philipbrewer.net/2019/01/27/how-meditation-is-like-weight-lifting
+layout: link
 ---
 > You don’t meditate to prove that you have great focus. You meditate to get better at noticing when you’re thinking and better at letting your thoughts go.
 
