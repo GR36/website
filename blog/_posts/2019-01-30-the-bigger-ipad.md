@@ -1,5 +1,5 @@
 ---
-title: "Moving To The Bigger Ipad"
+title: "Moving To The Bigger iPad"
 date: 2019-01-30 19:02
 bigimg: /img/2018-12-09-iPad-pro-both.jpeg
 ---
