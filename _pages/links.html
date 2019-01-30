@@ -1,17 +1,17 @@
 ---
 layout: page
-title: Podcast Episodes
+title: Link Posts
 use-site-title: true
-permalink: /podcasts/
+permalink: /links/
 pagination:
   enabled: true
-  categories: Podcast
+  categories: links
 ---
 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+    <a href="{{ post.link }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
 	  {% if post.subtitle %}
@@ -23,7 +23,7 @@ pagination:
 
     <p class="post-meta">
       Recorded on {{ post.date | date: "%B %-d, %Y" }}
-      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#127897; Permalink</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#128279; Permalink</a>
     </p>
 
 
@@ -37,11 +37,11 @@ pagination:
       {% endif %}
       <div class="post-entry">
       {{ post.content }}
-          
+
       </div>
     </div>
 
-    
+
 
    </article>
   {% endfor %}

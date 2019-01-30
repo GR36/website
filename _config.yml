@@ -18,9 +18,11 @@ navbar-links:
   Me:
   - About: "https://gr36.com/about/"
   - Twitter: "https://twitter.com/gr36"
-  Podcasts: "https://gr36.com/podcasts/"
+  Podcasts:
+  - And You Are: "https://gr36.com/andyouare/"
+  - BYOD: "https://gr36.com/byod/"
   Content:
-  - Micro Blog: "https://gr36.com/micro/"
+  - Micro Blog: "https://gr36.micro.blog"
   - Link Posts: "https://gr36.com/links/"
   - Reviews: "https://gr36.com/reviews/"
   - Guides: "https://gr36.com/howto/"
@@ -128,7 +130,7 @@ kramdown:
 defaults:
   -
     scope:
-      path: "_posts"
+      path: ""
       type: "posts"
     values:
       layout: "post"
@@ -215,6 +217,7 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - .DS_Store
 
 include:  ['_pages','shortcuts']
 
