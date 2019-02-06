@@ -85,7 +85,7 @@ pagination:
 
 {%- if post.categories contains 'links' -%}
       <a href="{{ post.link }}">
-        <h2 class="post-title">{{ post.title }}</h2></a>
+        <h2 class="post-title">&#128279; {{ post.title }}</h2></a>
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
@@ -93,7 +93,7 @@ pagination:
 	  {% endif %}
     <p class="post-meta">
       Linked on {{ post.date | date: "%B %-d, %Y" }}
-      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#128279; Permalink</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#9733; Permalink</a>
     </p>
 
     <div class="post-entry-container">
@@ -105,7 +105,7 @@ pagination:
 
 {%- if post.categories contains 'podcast' -%}
       <a href="{{ post.link }}">
-        <h2 class="post-title">{{ post.title }}</h2></a>
+        <h2 class="post-title">&#127897;  {{ post.title }}</h2></a>
 	  {% if post.subtitle %}
 	  <h3 class="post-subtitle">
 	    {{ post.subtitle }}
@@ -113,7 +113,7 @@ pagination:
 	  {% endif %}
     <p class="post-meta">
       Recorded on {{ post.date | date: "%B %-d, %Y" }}
-      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#127897; Permalink</a>
+      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#9733; Permalink</a>
     </p>
 
     <div class="post-entry-container">
