@@ -61,6 +61,8 @@ pagination:
       {%- if post.categories contains 'links' -%}
       <div class="post-entry">
         {{ post.content }}
+          <br/>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
       </div>
       {% else %}
       {%- if post.categories contains 'podcast' -%}
@@ -69,10 +71,7 @@ pagination:
       </div>
       {% else %}
       <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: 50 }}
-
-          <br/>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
       </div>
       {% endif %}
       {% endif %}
