@@ -62,7 +62,6 @@ pagination:
       <div class="post-entry">
         {{ post.content }}
           <br/>
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
       </div>
       {% else %}
       {%- if post.categories contains 'podcast' -%}
