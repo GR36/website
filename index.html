@@ -64,6 +64,12 @@ pagination:
           <br/>
       </div>
       {% else %}
+      {%- if post.categories contains 'micro' -%}
+      <div class="post-entry">
+        {{ post.content }}
+          <br/>
+      </div>
+      {% else %}
       {%- if post.categories contains 'podcast' -%}
       <div class="post-entry">
         {{ post.content }}
@@ -72,6 +78,7 @@ pagination:
       <div class="post-entry">
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
       </div>
+      {% endif %}
       {% endif %}
       {% endif %}
     </div>
