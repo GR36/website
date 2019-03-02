@@ -18,15 +18,20 @@ navbar-links:
   Me:
   - About: "https://gr36.com/about/"
   - Twitter: "https://twitter.com/gr36"
+  - Provacy: "https://gr36.com/privacy/"
   Podcasts:
   - And You Are: "https://gr36.com/andyouare/"
   - BYOD: "https://gr36.com/byod/"
   Content:
+  - Shortcuts: "https://gr36.com/shortcuts/"
   - Micro Blog: "https://gr36.com/micro/"
   - Link Posts: "https://gr36.com/links/"
   - Reviews: "https://gr36.com/reviews/"
   - Guides: "https://gr36.com/howto/"
-  Shortcuts: "https://gr36.com/shortcuts/"
+  Subscribe:
+  - RSS: "https://gr36.com/rss/"
+  - Podcasts: "https://gr36.com/podsub/"
+
 
  # Collections
 collections:
