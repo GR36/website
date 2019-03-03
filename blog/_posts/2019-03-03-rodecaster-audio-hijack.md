@@ -8,7 +8,7 @@ It has only been a few days since [Rode updated](https://www.gr36.com/2019-03-03
 Here's how to take advantage of the update and record using Audio Hijack - which is my [podcast recording software](https://gr36.com/gear/) of choice. 
 
 ## Understand The Update
-The 1.1.0 update is pretty easy [to install](https://www.gr36.com/2019-03-03-rodecaster-update/), but might take a little while to understand what exactly has been changed. Once the update is completed, disconnect and reconnect the USB-C cable to allow your computer to recognise a new connected device. Your Mac will now register two devices instead of one. RodeCaster Pro Sterio and also RodeCaster Pro Multitrack.
+The 1.1.0 update is pretty easy [to install](https://www.gr36.com/2019-03-03-rodecaster-update/), but might take a little while to understand what exactly has been changed. Once the update is completed, disconnect and reconnect the USB-C cable to allow your computer to recognise a new connected device. Your Mac will now register two devices instead of one. RodeCaster Pro Stereo and also RodeCaster Pro Multitrack.
 
 The connected USB-C cable now outputs 14 separate audio tracks to your Mac which apps such as Audio Hijack can record individually or mix together. The below image shows you the channel numbers for each output.
 
