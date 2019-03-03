@@ -15,7 +15,7 @@ The connected USB-C cable now outputs 14 separate audio tracks to your Mac which
 ![](https://gr36.com/img/2019-03-03-rodecaster-outputmap.jpg)
 
 ## Set Up Audio Hijack
-To get started and understand what is going on the best way is to start with a blank session, just to make sure you don't alter any bespoke sessions you already have set up. Drag in an input device block, double click on the block and you will notice the RodeCaster Pro Multitrack device in the menu. Once you select this, more options will appear when you uncover the advanced tab underneath.
+To get started and understand what is going on the best way may be to start with a blank session, just to make sure you don't alter any bespoke sessions you already have set up. Drag in an input device block, double click on the block and you will notice the RodeCaster Pro Multitrack device in the menu. Once you select this, more options will appear when you uncover the advanced tab underneath.
 
 ![](https://gr36.com/img/2019-03-03-audiohijack-input.jpg)
 
