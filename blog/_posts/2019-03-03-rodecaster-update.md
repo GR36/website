@@ -7,7 +7,7 @@ On the very last day of the month Rode released software version 1.1.0 for its p
 
 This was one of the biggest push backs against the unit when first released, that many producers much prefer to edit their audio in post and add in all of the extra sounds as well as cut out any issues. Rode were listening and announced an update to the unit soon after, and this was the biggest reasons I kept using mine.
 
-Once updated the RodeCaster Pro can not only output 1 or 2 tracks, it now has the ability to output 14 via USB. You keep a stereo output of the 'master track' but also mono outputs for Mic 1, 2, 3 and 4, as well as stereo for the USB input, TRRS phone connector, Bluetooth input, and finally the sound pads.
+Once updated the RodeCaster Pro can not only output 1 or 2 tracks, it now has the ability to output 14 via USB. You keep a stereo output of the 'master track' but also mono outputs for Mic 1, 2, 3 and 4, as well as stereo for the USB input, TRRS phone connector, Bluetooth input, and also the sound pads.
 
 ![](https://gr36.com/img/2019-03-03-rodecaster-outputmap.jpg)
 
