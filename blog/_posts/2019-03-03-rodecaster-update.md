@@ -9,6 +9,8 @@ This was one of the biggest push backs against the unit when first released, tha
 
 Once updated the RodeCaster Pro can not only output 1 or 2 tracks, it now has the ability to output 14 via USB. You keep a stereo output of the 'master track' but also mono outputs for Mic 1, 2, 3 and 4, as well as stereo for the USB input, TRRS phone connector, Bluetooth input, and finally the sound pads.
 
+[](https://gr36.com/img/2019-03-03-rodecaster-outputmap.jpg)
+
 There are many more improvements, for all the details about the release head over to the software release [page](https://www.rode.com/blog/all/RODECaster-Pro-Multitrack). The new firmware update includes:
 
 * Multitrack output to USB
