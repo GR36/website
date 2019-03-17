@@ -1,7 +1,7 @@
 ---
 title: "Where To Put Your Tech Investment"
 date: 2019-03-17 17:23
-bigimg: /img/2019-03-17-ces-technology.jpg
+bigimg: /img/2019-03-17-ces-technology.png
 ---
 For many years there were clear differences between the technology we bought. Clear divides between what companies were and were not able produce, the laptop market was still as it is now, but in mobile some phones sucked and other prevailed. A tech world was a sea of constant compromises as brands valued different things in their TVs, computers and even headphones.
 
