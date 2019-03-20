@@ -15,6 +15,6 @@ This question is more obvious when you consider the upgrade cycle of mobile phon
 
 As shown above when Apple launched the iPhone XS, the iPhone 7 is available for less than half the price. Many users would be hard pressed to find the iPhone XS to be 100% better than the iPhone 7, I say this is a person with an iPhone XS sat on my desk, from a place of privilege. I am also a person that now questions why I even bothered to upgrade. My, as well as many other peoples, urge to upgrade was one to keep up with the times. There are a few things I really desired (such as dual sim) but for the most part my desire to purchase came from my ego. I get very little extra benefit over the iPhone X that was sat here only a few months ago, and given the chance again I would not splash out.
 
-https://twitter.com/mugunthkumar/status/1107819483761008640?s=20
+{% twitter https://twitter.com/mugunthkumar/status/1107819483761008640 %}
 
 When brands make a range of products available at every price point, it is considered a grab for money. A play to make sure everyone can afford to buy something new. This may be the case, but it also opens up a much better reason not to over extend the budget, providing they are marketed in the correct way. The iPad Air may not be 30% worse, but it saves people 30% of their money, there is [less and less reason](https://gr36.com/2019-03-17-your-tech-investment/) to upgrade outside your budget now - and that’s a great thing.
