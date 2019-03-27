@@ -13,22 +13,12 @@ pagination:
     {%- if post.categories contains 'links' -%}
     <a href="{{ post.link }}"><h2 class="post-title">&#128279; {{ post.title }}</h2></a>
     {% else %}
-    {%- if post.categories contains 'podcast' -%}
-    <a href="{{ post.link }}"> <h2 class="post-title">&#127897;  {{ post.title }}</h2></a>
-    {% else %}
     <a href="{{ post.url | prepend: site.baseurl }}"> <h2 class="post-title">{{ post.title }}</h2></a>
-    {% endif %}
     {% endif %}
 
     {%- if post.categories contains 'links' -%}
     <p class="post-meta">
       Linked on {{ post.date | date: "%B %-d, %Y" }}
-      <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#9733; Permalink</a>
-    </p>
-    {% else %}
-    {%- if post.categories contains 'podcast' -%}
-    <p class="post-meta">
-      Recorded on {{ post.date | date: "%B %-d, %Y" }}
       <a href="{{ post.url | prepend: site.baseurl }}" class="link-perma">&#9733; Permalink</a>
     </p>
     {% else %}
@@ -47,7 +37,7 @@ pagination:
           {% endif %}
     </p>
     {% endif %}
-    {% endif %}
+
 
     <div class="post-entry-container">
       {% if post.bigimg %}
@@ -70,15 +60,9 @@ pagination:
           <br/>
       </div>
       {% else %}
-      {%- if post.categories contains 'podcast' -%}
-      <div class="post-entry">
-        {{ post.content }}
-      </div>
-      {% else %}
       <div class="post-entry">
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
       </div>
-      {% endif %}
       {% endif %}
       {% endif %}
     </div>

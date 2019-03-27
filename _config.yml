@@ -19,9 +19,6 @@ navbar-links:
   - About: "https://gr36.com/about/"
   - Twitter: "https://twitter.com/gr36"
   - Privacy: "https://gr36.com/privacy/"
-  Podcasts:
-  - And You Are: "https://gr36.com/andyouare/"
-  - BYOD: "https://gr36.com/byod/"
   Content:
   - Shortcuts: "https://gr36.com/shortcuts/"
   - Micro Blog: "https://gr36.com/micro/"
@@ -30,7 +27,7 @@ navbar-links:
   - Guides: "https://gr36.com/howto/"
   Subscribe:
   - RSS: "https://gr36.com/rss/"
-  - Podcasts: "https://gr36.com/podsub/"
+
 
 
  # Collections
