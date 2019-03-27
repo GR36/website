@@ -27,12 +27,9 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 800;
 }
 a {
-  color: {{ site.link-col }};
+  box-shadow: inset 0 -4px 0 #ef8b80;
 }
-a:hover,
-a:focus {
-  color: {{ site.hover-col }};
-}
+
 blockquote {
   background: #f9f9f9;
   border-left: 10px solid #ccc;
@@ -165,6 +162,7 @@ img {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: {{ site.hover-col }};
+  box-shadow: none;
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -399,11 +397,13 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
+  box-shadow: none;
   color: {{ site.link-col }};
 }
 
 .post-preview a:focus,
 .post-preview a:hover {
+  box-shadow: none;
   text-decoration: none;
   color: {{ site.hover-col }};
 }
@@ -511,6 +511,7 @@ footer .theme-by {
 
 .blog-tags a {
   color: {{ site.link-col }};
+  box-shadow: none;
   text-decoration: none;
   padding: 0px 5px;
 }
@@ -518,6 +519,7 @@ footer .theme-by {
 .blog-tags a:hover {
   border-radius: 2px;
   color: {{ site.hover-col }};
+  box-shadow: none;
   background-color: #EEE;
 }
 
@@ -707,6 +709,7 @@ footer .theme-by {
 .pager li a {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
+  box-shadow: none;
   font-size: 14px;
   font-weight: 800;
   letter-spacing: 1px;
@@ -718,10 +721,12 @@ footer .theme-by {
 @media only screen and (min-width: 768px) {
   .pager li a {
     padding: 15px 25px;
+    box-shadow: none;
   }
 }
 .pager li a:hover,
 .pager li a:focus {
+  box-shadow: none;
   color: #FFF;
   border: 1px solid {{ site.hover-col }};
   background-color: {{ site.hover-col }};
@@ -882,6 +887,7 @@ td.gutter {
 }
 
 #full-tags-list .tag-entry a {
+  box-shadow: none;
   font-size: 20px;
 }
 
