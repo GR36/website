@@ -353,6 +353,7 @@ footer p.text-muted {
 
 footer a {
   color: {{site.footer-link-col}};
+  box-shadow: none;
 }
 
 footer .list-inline {
