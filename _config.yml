@@ -30,34 +30,6 @@ navbar-links:
 
 
 
- # Collections
-collections:
-    links:
-      output: true
-      layout: link
-      permalink: /:collection/:title
-
-    blog:
-      output: true
-      layout: post
-      permalink: /:title
-
-    shortcuts:
-      output: true
-      layout: post
-      permalink: /:collection/:title
-
-    podcast:
-      output: true
-      layout: post
-      permalink: /:collection/:title
-
-    micro:
-      output: true
-      layout: post
-      permalink: /:collection/:title
-
-
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
