@@ -1,7 +1,7 @@
 ---
 title: "Considering Jumping The Walls"
 date: 2019-03-29 17:11
-bigimg: /img/2019-03-29-Apple-walled-garden.jpg
+bigimg: /img/2019-03-29-Apple-walled-garden.jpeg
 ---
 I’m not sure if you’re aware of this, but I use a lot of Apple products. I understand this might come as a shock, but quite a few years ago I decided it was the best option for me to lean in and get the benefits of living solely in the Apple garden. I’ve dipped my toe in and used several other devices, but for the most part, it hasn’t been worthwhile. However, for the last few days, I have been considering vaulting those walls and running away because I have a real fear they are getting too high.
 
@@ -9,7 +9,7 @@ The recent Apple services event went down as perhaps the most boring of all time
 
 Much like the ever-growing pay scale in a corporate job, Apple keeps ramping up the barriers to leaving and afraid one day I’m going to have a breakdown in my corner office. Sure I don’t HAVE to use Apple news, but when followers share links to things they have read I can’t read them without the Apple News app. I don’t have to read the magazines, or indeed watch the TV shows, but it’s pitched as though I’d be stupid not too. - and then the screws start to turn.
 
-![](https://gr36.com/img/2019-03-29-AirPods-others.jpg)
+![](https://gr36.com/img/2019-03-29-AirPods-others.jpeg)
 
 TV and reading the news turns into another Apple Music or Airpods. Sure there *are* competing platforms, but they can’t even stand up against the wall due to Apple kneecapping them with access to Siri, in-app payment taxes and in the case of headphones, [proprietary hardware](https://www.gr36.com/2018-03-24-the-w1-conundrum/).  Nothing changes in the immediate, but much like [Spotify now feels](https://www.wired.co.uk/article/apple-app-store-spotify), the same will come of all other services available to your Apple hardware. Play the game the Apple way or lose, badly. 
 
