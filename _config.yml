@@ -18,10 +18,7 @@ navbar-links:
   Me:
   - About: "https://gr36.com/about/"
   - Twitter: "https://twitter.com/gr36"
-  - Provacy: "https://gr36.com/privacy/"
-  Podcasts:
-  - And You Are: "https://gr36.com/andyouare/"
-  - BYOD: "https://gr36.com/byod/"
+  - Privacy: "https://gr36.com/privacy/"
   Content:
   - Shortcuts: "https://gr36.com/shortcuts/"
   - Micro Blog: "https://gr36.com/micro/"
@@ -30,35 +27,7 @@ navbar-links:
   - Guides: "https://gr36.com/howto/"
   Subscribe:
   - RSS: "https://gr36.com/rss/"
-  - Podcasts: "https://gr36.com/podsub/"
 
-
- # Collections
-collections:
-    links:
-      output: true
-      layout: link
-      permalink: /:collection/:title
-
-    blog:
-      output: true
-      layout: post
-      permalink: /:title
-
-    shortcuts:
-      output: true
-      layout: post
-      permalink: /:collection/:title
-
-    podcast:
-      output: true
-      layout: post
-      permalink: /:collection/:title
-
-    micro:
-      output: true
-      layout: post
-      permalink: /:collection/:title
 
 
 # If you want to have an image logo in the top-left corner instead of the title text,

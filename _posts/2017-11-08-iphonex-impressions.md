@@ -1,7 +1,7 @@
 ---
 title: "iPhone X Initial Impressions"
 date: 2017-11-08
-tags: review, iPhone
+tags: Review
 bigimg: /img/2017-10-31-iPhonex-handson.jpeg
 ---
 As you may or may not know I don’t bother [writing reviews anymore][1]. There are hundreds of great videos and long form pieces out there to satiate your appetite for that kind of thing. However I usually share my initial thoughts on using new devices - and here are mine on the iPhone X.
