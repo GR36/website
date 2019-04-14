@@ -9,6 +9,6 @@ More than a few times in my life I have fallen foul of letting my ego get the be
 
 Time and time again I see the over inflation of ego because they receive a little notoriety, receive a few followers that fluff this up and very quickly it gets out of control. They begin to forget the people that are around them and are removed to place they look down.
 
-As I said before, this has happened to me, [on a much smaller scale=(https://gr36.me/2019/02/08/132521.html), but I see it more as we are more connected. When I think back to the person I was even a few years ago, I would have never written a post such as this, but I am confident now that I have learnt many lessons to pass them on.
+As I said before, this has happened to me, [on a much smaller scale](https://gr36.me/2019/02/08/132521.html), but I see it more as we are more connected. When I think back to the person I was even a few years ago, I would have never written a post such as this, but I am confident now that I have learnt many lessons to pass them on.
 
 The ego is such a dangerous part of our consciousness that it seems to work against us as a person and as a community. Don’t let it take over you and remember who you are, what you stand for and everything you wish to be. From experience we should all try and remember that our opinions do not matter more than others; you can learn from each one fo your interactions, and be humble at all times.
